@@ -179,9 +179,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="597.65302"
-     inkscape:cy="93.813043"
+     inkscape:zoom="4"
+     inkscape:cx="627.85207"
+     inkscape:cy="96.329709"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -296,14 +296,6 @@
        height="15.95173"
        x="674.5"
        y="858.94617" />
-    <image
-       y="874.89789"
-       x="674.5"
-       id="image4144"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAhFJREFU OI19kz9oU1EUh7/fzWtT01Q7KjgooljbpHURhdLByU0HwU0RbCOCgo52cXIU3EpjFy0O1kUQBDso dBSE/BPqorOgxTQ2SZPc4/Dei0mqnunee8757vmdwxGRmZniM1LPpd8sDJYkAwgGk2PHVL5wH9MV xDEzCfgm8VzzmUWTzCKIBpMzS8U5c6yb9FlwrzyfWQfILBfvuvT4o3bt50ZlITMX53UBkiy7VLig 9IE3nZ3qM4nHZnxIjI6rU9t6WM5NL04ulzaD1NgJWvWjhesTX81MLtYM4J3WOjvV7fJC9qoZNzQ0 LGs3MUu8iDqQAsPXW8m4agcgIJMvnk2M7k8jvQ+bZafxHt+s+8rNqUJ2pTIbpMYOt3dqX0q3sptx 5S4m7bpqBSXAaIZQTUauYuZJcc53/HqnXvs+Ys0zvVPpTkHS9mS+cA10EsAlU2m/W8fQEby9VRAk rd3agtGhPYAeyNNwhKU75ju4YBi/W79dzs2sZlY+mRseOdRoNh4Aub4e9EKiwznMg3OUczOrXb/3 oFDingoGbBozfLPxA+BUvnBeiTDUGRv/BkTjBCYADF8BcJ7L5j34DqVcds16UvokxON0yX0gh+Aj gEmzoTJfiCTqrwAA77mIHG5oGEnvIvBxJDDbGowPFC1Gj4qqb/x6jVlQzk2/Cj/kJa3mJeBgGPNn mboks/7F6n3/39tvPdgKyNaFqQwAAAAASUVORK5CYII= "
-       preserveAspectRatio="none"
-       height="16"
-       width="16" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e92e1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
