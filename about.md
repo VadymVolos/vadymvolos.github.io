@@ -6,9 +6,7 @@ permalink: /about/
 Контакты:
 
 <a href="https://plus.google.com/+VadymVolos" target="_blank" rel="nofollow">plus.google.com/+VadymVolos</a> <br>
-<a href="https://github.com/VadymVolos/vadymvolos.github.io/issues" target="_blank" rel="nofollow">vadymvolos.github.io/issues</a> <br>
-<a href="https://vadymvolos.github.io/blog/category/" target="_blank" rel="nofollow">vadymvolos.github.io/blog/category/</a> <br>
-<a href="https://vadymvolos.github.io/blog/tag/" target="_blank" rel="nofollow">vadymvolos.github.io/blog/tag/</a>
+<a href="https://github.com/VadymVolos/vadymvolos.github.io/issues" target="_blank" rel="nofollow">vadymvolos.github.io/issues</a>
 
 
 ### Привет
@@ -17,5 +15,10 @@ permalink: /about/
 <br>
 Это блог про маркетинг, увеличение КПД, и продуктивность.
 Если хотите чтоб я написал пост на какую-то важную вам тему, напишите мне, я почитаю, если шарю в этой теме и у меня будет вдохновение и время, я обязателььно напишу.
+
+Категории | Теги:
+
+<a href="https://vadymvolos.github.io/blog/category/" target="_blank" rel="nofollow">vadymvolos.github.io/blog/category/</a> <br>
+<a href="https://vadymvolos.github.io/blog/tag/" target="_blank" rel="nofollow">vadymvolos.github.io/blog/tag/</a>
 
 {% include disqus.html %}
