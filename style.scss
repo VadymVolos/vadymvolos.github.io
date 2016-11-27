@@ -337,7 +337,11 @@ footer {
 Стили для страницы с тегами https://vadymvolos.github.io/blog/tag/
 ***********************************************/
 .codinfox-category-list small, .codinfox-category-list .codinfox-tag-mark {
-    font-size: 0.57em;
+    font-size: 0.6em;
+    color: #ababab;
+    font-weight: normal;
+    font-style: italic;
+    font-family: sans-serif;
 }
 
 /**********************************************/
