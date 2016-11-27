@@ -6,8 +6,8 @@ permalink: /about/
 Контакты:
 
 <a href="https://plus.google.com/+VadymVolos" target="_blank" rel="nofollow">plus.google.com/+VadymVolos</a> <br>
-<a href="https://github.com/VadymVolos/vadymvolos.github.io/issues" target="_blank" rel="nofollow">vadymvolos.github.io/issues</a>
-<a href="https://vadymvolos.github.io/blog/category/" target="_blank" rel="nofollow">vadymvolos.github.io/blog/category/</a>
+<a href="https://github.com/VadymVolos/vadymvolos.github.io/issues" target="_blank" rel="nofollow">vadymvolos.github.io/issues</a> <br>
+<a href="https://vadymvolos.github.io/blog/category/" target="_blank" rel="nofollow">vadymvolos.github.io/blog/category/</a> <br>
 <a href="https://vadymvolos.github.io/blog/tag/" target="_blank" rel="nofollow">vadymvolos.github.io/blog/tag/</a>
 
 
