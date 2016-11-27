@@ -16,6 +16,7 @@ permalink: /about/
 Это блог про маркетинг, КПД и продуктивность.
 Если хотите чтоб я написал пост на какую-то важную вам тему, напишите в комментариях, я почитаю, если шарю в этой теме и у меня будет вдохновение и время, я обязателььно напишу.
 
+
 Категории и Теги:
 
 <a href="https://vadymvolos.github.io/blog/category/" target="_blank" rel="nofollow">vadymvolos.github.io/blog/category/</a> <br>
