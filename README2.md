@@ -8,7 +8,9 @@
 - Еще одна симпатичная тема: https://github.com/arnp/herring-cove  
 - Тема не очень но интересно реализован список категорий с переключателем https://github.com/dbtek/dbyll Демо: http://dbtek.github.io/dbyll/categories.html
 - Стильный блог акуратный, но нет страницы с категориями Clean Blog https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll Демо: http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/  
-- Стильный блог акуратный, но нет страницы с категориями Long Haul: https://github.com/brianmaierjr/long-haul Демо: http://brianmaierjr.com/long-haul/
+- Стильный блог акуратный, но нет страницы с категориями Long Haul: https://github.com/brianmaierjr/long-haul Демо: http://brianmaierjr.com/long-haul/  
+- Интересная тема с зафиксированой боковой колонкой, но в ней нет страницы с категориями Hyde https://github.com/poole/hyde Демо: http://hyde.getpoole.com/  
+- 
 
 
 --
