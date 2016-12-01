@@ -6,6 +6,7 @@
 - Вот интересная тема https://github.com/jwillmer/jekyllDecent (Демо: https://jwillmer.de/ ) - нет Дискуса, нет ГТМ, но на главной посты красиво разложены п окатегориям.  
 - Вот еще интересная тема, в ней тоже краиво сделана страница с категриями HMFAYSAL OMEGA THEME https://github.com/hmfaysal/hmfaysal-omega-theme Демо: http://hmfaysal.me/hmfaysal-omega-theme/categories/  
 - Еще одна симпатичная тема: https://github.com/arnp/herring-cove  
+- Тема не очень но интересно реализован список категорий с переключателем https://github.com/dbtek/dbyll Демо: http://dbtek.github.io/dbyll/categories.html
 
 
 --
