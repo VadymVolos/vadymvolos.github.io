@@ -16,7 +16,11 @@ https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll
 
 для того чтобы при просмотре страницы http://vadymvolos.github.io/blog/ подключились стили (ибо стилей не было).
 
+--
 Чтоб поменять код на странице блога (стр список постов) не достаточно отредактирвоать blog.md  
 github.com/VadymVolos/vadymvolos.github.io/blog.md нужно еше отредактирвоать главную index.html  
 github.com/VadymVolos/vadymvolos.github.io/index.html м также в папке блог  
-github.com/VadymVolos/vadymvolos.github.io/blog/index.html-0 файл индекса удалить или изменить название например index.html-0 
+github.com/VadymVolos/vadymvolos.github.io/blog/index.html-0 файл индекса удалить или изменить название например index.html-0  
+Э даже тогда когда это сделал, то на https://vadymvolos.github.io/index.html отображается все что сделал, а по адресу https://vadymvolos.github.io/ отображается без изменений, значит нужно еще гдето изменить. 
+
+--
