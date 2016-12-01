@@ -3,8 +3,9 @@
 Демо: http://www.jekyllnow.com/  
 Таже есть много других тем: https://github.com/jekyll/jekyll/wiki/Themes  
 Не во всех темах есть Дискус комментраии, и Гугл Тег Менеджер, нужно проверять, ибо в моей есть.   
-Вот интересная тема https://github.com/jwillmer/jekyllDecent (Демо: https://jwillmer.de/ ) - нет Дискуса, нет ГТМ, но на главной посты красиво разложены п окатегориям.  
-Вот еще интересная тема, в ней тоже краиво сделана страница с категриями HMFAYSAL OMEGA THEME https://github.com/hmfaysal/hmfaysal-omega-theme Демо: http://hmfaysal.me/hmfaysal-omega-theme/categories/
+- Вот интересная тема https://github.com/jwillmer/jekyllDecent (Демо: https://jwillmer.de/ ) - нет Дискуса, нет ГТМ, но на главной посты красиво разложены п окатегориям.  
+- Вот еще интересная тема, в ней тоже краиво сделана страница с категриями HMFAYSAL OMEGA THEME https://github.com/hmfaysal/hmfaysal-omega-theme Демо: http://hmfaysal.me/hmfaysal-omega-theme/categories/  
+- Еще одна симпатичная тема: https://github.com/arnp/herring-cove  
 
 
 --
