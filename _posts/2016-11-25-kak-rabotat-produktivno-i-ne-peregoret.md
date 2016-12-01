@@ -8,7 +8,7 @@ tags: [продуктивность, легкость, расфокусиров�
 Как работать продуктивно и не перегореть - опыт и рекомендации программиста.
 
 <div class="yt-video-container-1">
-    <iframe src="https://www.youtube-nocookie.com/embed/VqHzMHrf1nU?rel=0" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/VqHzMHrf1nU?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 Автор видео Александр Сокирка.
 
