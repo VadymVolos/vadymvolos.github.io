@@ -181,6 +181,7 @@ img {
   width: 87px;
   height: 70px;
   margin-right: 15px;
+  margin-top: 2px; /* Я добавил */	
 
   @include mobile {
     float: none;
