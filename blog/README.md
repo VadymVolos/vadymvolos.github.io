@@ -21,6 +21,6 @@ https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll
 github.com/VadymVolos/vadymvolos.github.io/blog.md нужно еше отредактирвоать главную index.html  
 github.com/VadymVolos/vadymvolos.github.io/index.html м также в папке блог  
 github.com/VadymVolos/vadymvolos.github.io/blog/index.html-0 файл индекса удалить или изменить название например index.html-0  
-Э даже тогда когда это сделал, то на https://vadymvolos.github.io/index.html отображается все что сделал, а по адресу https://vadymvolos.github.io/ отображается без изменений, значит нужно еще гдето изменить. 
+Даже тогда когда это сделал, то на https://vadymvolos.github.io/index.html отображается все что сделал, а по адресу https://vadymvolos.github.io/ отображается без изменений, значит нужно еще гдето изменить. Не, то был кеш, теперь отображается везде одинаково.
 
 --
