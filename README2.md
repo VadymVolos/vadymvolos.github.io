@@ -10,6 +10,7 @@
 - Стильный блог акуратный, но нет страницы с категориями Clean Blog https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll Демо: http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/  
 - Стильный блог акуратный, но нет страницы с категориями Long Haul: https://github.com/brianmaierjr/long-haul Демо: http://brianmaierjr.com/long-haul/  
 - Интересная тема с зафиксированой боковой колонкой, но в ней нет страницы с категориями Hyde https://github.com/poole/hyde Демо: http://hyde.getpoole.com/  
+- Аккуратный стильный блог, страницы с категориями нет, но сверху ест ьменю из тегов при нажатии на него открывается страница со списком постов этого тега. CleanBlogEnhanced https://github.com/shikherverma/shikherverma.github.io Демо: http://shikherverma.com/  
 
 
 
