@@ -15,3 +15,8 @@ https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll
 файл blog_index.html и залил его в папку vadymvolos.github.io\_layouts\blog_index.html
 
 для того чтобы при просмотре страницы http://vadymvolos.github.io/blog/ подключились стили (ибо стилей не было).
+
+Чтоб поменять код на странице с списком постов не достаточно отредактирвоать  
+github.com/VadymVolos/vadymvolos.github.io/blog.md нужно еше отредактирвоать главную  
+github.com/VadymVolos/vadymvolos.github.io/index.html м также в папке блог  
+github.com/VadymVolos/vadymvolos.github.io/blog/index.html-0 файл индекса удалить или изменить название например index.html-0 
