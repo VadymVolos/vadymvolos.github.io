@@ -502,11 +502,11 @@ footer {
 }
 .block-moving-background-1 {
 	background-position: 0px 0px;
-	animation: animatedBackground 130s linear infinite;
-	-moz-animation: animatedBackground 130s linear infinite;
-	-webkit-animation: animatedBackground 130s linear infinite;
-	-ms-animation: animatedBackground 130s linear infinite;
-	-o-animation: animatedBackground 130s linear infinite;
+	animation: animatedBackground 130s linear infinite reverse;
+	-moz-animation: animatedBackground 130s linear infinite reverse;
+	-webkit-animation: animatedBackground 130s linear infinite reverse;
+	-ms-animation: animatedBackground 130s linear infinite reverse;
+	-o-animation: animatedBackground 130s linear infinite reverse;
 }
 .block-moving-background-1 h3 {
 	text-align: center;
