@@ -466,11 +466,11 @@ footer {
 Аимация. Движущийся бекграунд.
 ***********************************************/
 /* пример хтмл
-<div class="block3_1 testimonials-animated-bg">
+<div class="block-moving-background-1 testimonials-animated-bg">
 <h3>Тут текст</h3>
 </div>
 */
-.block3_1 { 
+.block-moving-background-1 { 
 	width: 100%;
 	height: 250px;
 	background-repeat: repeat;
@@ -498,7 +498,7 @@ footer {
     0% { background-position: 0 0; }
     100% { background-position: -1170% 0; }
 }
-.block3_1 {
+.block-moving-background-1 {
 	background-position: 0px 0px;
 	animation: animatedBackground 30s linear infinite;
 	-moz-animation: animatedBackground 30s linear infinite;
@@ -506,7 +506,7 @@ footer {
 	-ms-animation: animatedBackground 30s linear infinite;
 	-o-animation: animatedBackground 30s linear infinite;
 }
-.block3_1 h3 {
+.block-moving-background-1 h3 {
 	text-align: center;
 	line-height: 250px;
 	vertical-align: middle;
