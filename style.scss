@@ -450,7 +450,7 @@ footer {
   transform: perspective(1px) translateZ(0);
   box-shadow: 0 0 1px transparent;
 }
-.hvr-wobble-vertical { /* Я добавил чтоб не было отступов display: inline-block; */
+.hvr-wobble-vertical { /* Я добавил чтоб не было margin-ов лишних display: inline-block; */
   display: inherit;
 }
 .hvr-wobble-vertical:hover, .hvr-wobble-vertical:focus, .hvr-wobble-vertical:active {
