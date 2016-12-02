@@ -349,5 +349,26 @@ footer {
 .codinfox-category-list { list-style-type: none; padding-left: 30px;}
 */
 
+/**********************************************
+На главной красивый список
+***********************************************/
+.content ul {
+    list-style-type: none;
+    margin-left: -28px;
+}
+.post-header {
+    border-bottom: 1px solid #eee;
+    display: table;
+    width: 100%;
+}
+.date {
+    float: right;
+}
+@media screen and (max-width: 640px) {
+   .date {
+       display: none;
+   }
+}
+
 /**********************************************/
 
