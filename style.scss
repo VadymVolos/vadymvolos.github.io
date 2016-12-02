@@ -374,6 +374,9 @@ footer {
        display: none;
    }
 }
+.main-index-page .date:hover {
+  color: #eeeeee;
+}
 .main-index-page .post-header:hover .date {
   color: $gray;
 }
