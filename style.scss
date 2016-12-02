@@ -526,8 +526,10 @@ footer {
 } 
 .bg-img-1 {box-shadow: 0px 0px 0px 0px #5981ab, 0px 0px 4px 0px #5981ab;}
 .site-name {color: #fff; text-shadow: -1px 0px 0px #bfb2b2;}
+.site-name:hover {color: #fff;}
 .site-description {color: #fff;}
 nav a {color: rgba(0, 0, 0, 0.68);}
+nav a:hover {color: #fff;}
 .bg-img-2 {box-shadow: 0px 0px 0px 0px #5981ab, 1px 0px 6px 0px #5981ab; border: 0;}
 
 /**********************************************/
