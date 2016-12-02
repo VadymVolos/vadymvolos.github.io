@@ -502,7 +502,7 @@ footer {
 }
 .block-moving-background-1 {
 	background-position: 0px 0px;
-	animation: animatedBackground 30s linear infinite;
+	animation: animatedBackground 90s linear infinite;
 	-moz-animation: animatedBackground 30s linear infinite;
 	-webkit-animation: animatedBackground 30s linear infinite;
 	-ms-animation: animatedBackground 30s linear infinite;
@@ -522,9 +522,21 @@ footer {
 ***********************************************/
 .bg-img-1, .bg-img-2 {
     background-image: url('/images/bg-img-1.png');
-    background-size: 5px;
+    background-size: 127px;
 } 
-
+.bg-img-1 {
+    box-shadow: 0px 0px 0px 0px #5981ab, 0px 0px 4px 0px #5981ab;
+}
+.site-name {
+    color: #fff;
+    text-shadow: -1px 0px 0px #bfb2b2;
+}
+.site-description {
+    color: #fff;
+}
+.bg-img-2 {
+	
+}
 
 /**********************************************/
 
