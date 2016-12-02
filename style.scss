@@ -441,11 +441,14 @@ footer {
   }
 }
 .hvr-wobble-vertical {
-  display: inline-block;
+  display: inline-block;  /* не знаю зачем он но у блоков получаются большие верхние оступы */
   vertical-align: middle;
   -webkit-transform: perspective(1px) translateZ(0);
   transform: perspective(1px) translateZ(0);
   box-shadow: 0 0 1px transparent;
+}
+.hvr-wobble-vertical { /* Я добавил чтоб не было отступов display: inline-block; */
+  display: inherit;
 }
 .hvr-wobble-vertical:hover, .hvr-wobble-vertical:focus, .hvr-wobble-vertical:active {
   -webkit-animation-name: hvr-wobble-vertical;
