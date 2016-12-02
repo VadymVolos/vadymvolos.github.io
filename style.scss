@@ -462,5 +462,32 @@ footer {
   animation-iteration-count: 1;
 }
 
+/**********************************************
+Аимация. Движущийся бекграунд.
+***********************************************/
+.block3_1 {
+    width: 100%;
+    height: 250px;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url(http://webstudio11.com/wp-content/uploads/background.jpg);
+}
+.block3_1 {
+    background-position: 0px 0px;
+    animation: animatedBackground 30s linear infinite;
+    -moz-animation: animatedBackground 30s linear infinite;
+    -webkit-animation: animatedBackground 30s linear infinite;
+    -ms-animation: animatedBackground 30s linear infinite;
+    -o-animation: animatedBackground 30s linear infinite;
+}
+/* пример хтмл
+<div class="block3_1 testimonials-animated-bg">
+<h3>Тут текст</h3>
+</div>
+*/
+
+
+
+
 /**********************************************/
 
