@@ -360,9 +360,9 @@ footer {
     border-bottom: 1px solid #eee;
     display: table;
     width: 100%;
-}
-.article .post-header:first-child { 
     border-top: 1px solid #eee;
+    margin-top: -1px;
+    padding-top: 1px;
 }
 .date {
     float: right;
