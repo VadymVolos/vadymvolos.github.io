@@ -502,11 +502,11 @@ footer {
 }
 .block-moving-background-1 {
 	background-position: 0px 0px;
-	animation: animatedBackground 90s linear infinite;
-	-moz-animation: animatedBackground 30s linear infinite;
-	-webkit-animation: animatedBackground 30s linear infinite;
-	-ms-animation: animatedBackground 30s linear infinite;
-	-o-animation: animatedBackground 30s linear infinite;
+	animation: animatedBackground 130s linear infinite;
+	-moz-animation: animatedBackground 130s linear infinite;
+	-webkit-animation: animatedBackground 130s linear infinite;
+	-ms-animation: animatedBackground 130s linear infinite;
+	-o-animation: animatedBackground 130s linear infinite;
 }
 .block-moving-background-1 h3 {
 	text-align: center;
@@ -521,7 +521,7 @@ footer {
 Бекграунд без анимации для хедера и футера vadymvolos.github.io/_layouts/default.html
 ***********************************************/
 .bg-img-1, .bg-img-2 {
-    background-image: url('/images/bg-img-1.png');
+    background-image: url('/images/bg/bg-img-3.png');
     /*background-size: 127px;*/
     background-position: 0px 0px; /* при наведении чтоб фон не смещался */
 } 
