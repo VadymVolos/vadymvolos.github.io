@@ -9,6 +9,6 @@ tags: [психология, управление персоналом, мене
 Рекомендую это видео к просмотру, после просмотра обязательно напишите свои мысли в комментариях, я хочу их почитать.
 
 <div class="yt-video-container-1">
-    <iframe src="https://www.youtube-nocookie.com/embed/pR9AMU1luc8?rel=0" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/pR9AMU1luc8?rel=0" frameborder="0" allowfullscreen></iframe>    
 </div>
 Автор видео Владимир Сидоренко (фундаментальный закон управления и мотивации персонала).
