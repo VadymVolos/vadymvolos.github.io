@@ -76,7 +76,8 @@ p {
 a {
   color: $blue;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
+  transition: 2s;
   &:hover, &:active {
     color: $blue-hover;
   }
