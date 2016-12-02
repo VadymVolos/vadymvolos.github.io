@@ -350,13 +350,13 @@ footer {
 */
 
 /**********************************************
-На главной красивый список
+На главной красивый список добавил класс в файле индекс .main-index-page
 ***********************************************/
-.content ul {
+.main-index-page .content ul {
     list-style-type: none;
     margin-left: -28px;
 }
-.post-header {
+.main-index-page .post-header {
     display: table;
     width: 100%;
 /*  border-bottom: 1px solid #eee;
@@ -365,17 +365,17 @@ footer {
     padding-top: 1px;
 */
 }
-.date {
+.main-index-page .date {
     float: right;
     margin-top: 3px;
 }
 @media screen and (max-width: 640px) {
-   .date {
+   .main-index-page .date {
        display: none;
    }
 }
-.post-header:hover .date {
-  color: #666;
+.main-index-page .post-header:hover .date {
+  color: $gray;
 }
 
 /**********************************************/
