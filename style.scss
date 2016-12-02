@@ -520,7 +520,7 @@ footer {
 /**********************************************
 Бекграунд без анимации для хедера и футера vadymvolos.github.io/_layouts/default.html
 ***********************************************/
-.bg-img-1, .bg-img-2 {
+.bg-img-1, .bg-img-2, .bg-img-1:hover, .bg-img-2:hover {
     background-image: url('/images/bg-img-1.png');
     /*background-size: 127px;*/
     background-position: center;
