@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You're up and running!
-category: Dev
+category: Dev, Уроки
 tags: [web, jekyll]
 ---
 
