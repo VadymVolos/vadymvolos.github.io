@@ -3,9 +3,13 @@
 <head>    
     <meta charset="UTF-8">
     <title>404 - страница не найдена</title>
-    <link rel="stylesheet" type="text/css" href="/404.html-style.css">
     <style type="text/css">
-    /*тут на странице 404 гитхаб почему то не дает срабатывать стилям, нужно их писать в диве <div style=""></div> */
+    /*
+      тут на странице 404 гитхаб почему то не дает срабатывать стилям, нужно их писать в диве <div style=""></div>
+      также на этой странице не срабатывают переменные от Jekyll.
+      Пробовал подключит ьфал со стилями он подклчюается но стили не срабатывают на этой странице.
+      Есдинсвенные вариант прописать стили в блоки <div style=""></div>
+     */
     </style>
 </head>
 <body>
@@ -21,8 +25,10 @@
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
     
-<a href="/" class="404-html-link" style="">
+<a href="/" class="404-html-link" style="color: #333; text-decoration: none;">
 <div class="404-html" style="
+    font-family: Roboto;
+    text-align:center;
     margin: 0;
     background: yellow;
     position: absolute;
