@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adwords - you're up and running!
-category: adwords
+category: Adwords
 tags: [web, jekyll]
 ---
 
