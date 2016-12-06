@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="posts">
+<div class="posts blog-md-v1">
   {% for post in site.posts %}
     <article class="post">
 
