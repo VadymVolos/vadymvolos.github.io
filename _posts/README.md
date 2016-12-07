@@ -1,4 +1,4 @@
-Если создать папку в _posts например папку adwords
+Если в папке _posts создать например папку adwords
 vadymvolos.github.io/_posts/
 vadymvolos.github.io/_posts/adwords
 и в эту папку поместить пост, то при просморте на сайте пост будет отображатся 
