@@ -108,6 +108,9 @@ ul ul, ol ul {
     padding-left: 40px;
     margin-bottom: 30px;
 }
+.post ol { /* Я добавил, сделал красивее нумерованый список в постах */
+margin-bottom: 30px;
+}
 
 em, i {
   font-style: italic;
