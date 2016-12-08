@@ -8,7 +8,7 @@ tags: [психология, менеджмент]
 Вебинар Доминирование: сильный управляет слабым или слабый - сильным? (Владимир Тарасов). Позиционная борьба, сильный, слабый. 
 Рекомендую это видео к просмотру, после просмотра обязательно напишите свои мысли в комментариях, я хочу их почитать.
 
-<div class="yt-video-container-1">
-    <iframe src="https://www.youtube.com/embed_tQbAHZ6u28?rel=0" frameborder="0" allowfullscreen></iframe>    
+<div class="yt-video-container-1">   
+    <iframe src="https://www.youtube.com/embed/_tQbAHZ6u28?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 Автор видео Владимир Тарасов (Онлайн-школа Владимира Тарасова).
