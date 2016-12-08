@@ -332,12 +332,13 @@ footer {
     Ютуб видео чтоб было на ширину страницы
     также код видео нужно обернуть в див блок
     <div class="yt-video-container-1">
-        <iframe src="https://www.youtube-nocookie.com/embed/pR9AMU1luc8?rel=0" frameborder="0" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/pR9AMU1luc8?rel=0" frameborder="0" allowfullscreen></iframe>  
     </div>
 ***********************************************/
 .yt-video-container-1 {
     position: relative;
     padding-bottom: 56.25%;
+    padding-bottom: 52.25%;
     padding-top: 30px; height: 0; overflow: hidden;
     margin-bottom: 1em;
 }
