@@ -12,7 +12,7 @@ description: Мой блог про Интернет Маркетинг
 avatar: /images/vadymvolos-logo.svg
 
 # При публикации поста в твиттер ему на старинце в метатегах нужно чтоб было имя вашего твиттер аккаунта @yourname , зачем не понятно /_includes/meta.html
-twitter_my_name: @VadymVolos
+twitter-my-name: VadymVolos
 
 #
 # Flags below are optional
