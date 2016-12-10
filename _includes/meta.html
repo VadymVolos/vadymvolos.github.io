@@ -19,16 +19,16 @@
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="twitter:title" content="{{ page.title }}" />
     {% else %}
-    <meta property="og:title" content="{{ site.name }}" /> <!-- тайтл в метатегагх обязателен и на главной тоже, твиттер это поле подставляет в заголовок твитта -->
-    <meta property="twitter:title" content="{{ site.name }}" /> <!-- тайтл в метатегагх обязателен и на главной тоже, твиттер это поле подставляет в заголовок твитта -->
+    <meta property="og:title" content="{{ site.name }}" />
+    <meta property="twitter:title" content="{{ site.name }}" />
     {% endif %}
 
-<!-- Все ниже я добавил, для теста -->
+
 
     <meta name="twitter:site" content="@{{ site.twitter-my-name }}" />
 
     {% if page.image %}
-      <meta name="twitter:card" content="summary_large_image" /> <!-- "summary_large_image" - по правилам твиттера большое фото должно быть уникальным (ширина 506px большого фото в идеале, можно больше). Если фото повторяется в несколькоих местах на сайте нужно использовать маленькое 120х120px фото content="summary" -->
+      <meta name="twitter:card" content="summary_large_image" />
       <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
       <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
     {% else %}
@@ -36,4 +36,3 @@
       <meta property="og:image" content="{{ site.url }}/images/social-posts-photo-fb-tw-800x600.png" />
       <meta name="twitter:image" content="{{ site.url }}/images/social-posts-photo-twitter-120x120.png">
     {% endif %}
-
