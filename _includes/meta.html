@@ -3,9 +3,6 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
-<meta name="twitter:card" content="summary_large_image" />
-<!-- meta name="twitter:site" content="@vadymvolos" / -->
-
     {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
     <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
@@ -25,16 +22,14 @@
 
 <!-- Все ниже я добавил, для теста -->
 
+    <meta name="twitter:site" content="@vadymvolos" />
+
     {% if page.image %}
+      <meta name="twitter:card" content="summary_large_image" /> <!-- "summary_large_image" - по правидам тыиттера фото должно быть уникальным, если повторяется в несколькоих местах нужно использоват ьмаленькое content="summary" -->
       <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
       <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
     {% else %}
-      <!-- Если в посте нету фоток, будет подставлятся та которую я пропишу, в данном варианте я захотел подставлять логотип.
-           Отключил, потмоу что если в логотипе фотка .svg то при постинге в фейсбук он говорит ошибка фото
-           нужно или фотку сделать на .svg, или добавить отдельно фотки для моц сетей.
-      <meta property="og:image" content="{{ site.avatar }}" />
-      <meta name="twitter:image:src" content="{{ site.avatar }}">
-      -->
+      <meta name="twitter:card" content="summary" />
       <meta property="og:image" content="{{ site.url }}/images/photo-for-posts-fb-tw-800x600.png" />
       <meta name="twitter:image" content="{{ site.url }}/images/photo-for-posts-fb-tw-800x600.png">
     {% endif %}
