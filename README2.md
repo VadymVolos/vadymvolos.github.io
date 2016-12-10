@@ -11,7 +11,10 @@
 - Стильный блог акуратный, но нет страницы с категориями Long Haul: https://github.com/brianmaierjr/long-haul Демо: http://brianmaierjr.com/long-haul/  
 - Интересная тема с зафиксированой боковой колонкой, но в ней нет страницы с категориями Hyde https://github.com/poole/hyde Демо: http://hyde.getpoole.com/  
 - Аккуратный стильный блог, страницы с категориями нет, но сверху ест ьменю из тегов при нажатии на него открывается страница со списком постов этого тега. CleanBlogEnhanced https://github.com/shikherverma/shikherverma.github.io Демо: http://shikherverma.com/  
-- Ничего в этой теме красивого нет, но на странице с постом есть акордеон с категориями, можно взять идею jekyllBasicBlog https://github.com/bchetty/jekyllBasicBlog Демо: https://bchetty.com/jekyllBasicBlog/blog/post6  
+- Ничего в этой теме красивого нет, но на странице с постом есть акордеон с категориями, можно взять идею jekyllBasicBlog https://github.com/bchetty/jekyllBasicBlog Демо: https://bchetty.com/jekyllBasicBlog/blog/post6
+- Базовая от Jekyll тема Минима: https://github.com/jekyll/minima
+>
+Инструкция как добавить мета теги в посты и страницы https://www.dev-eth0.de/blog/2016/11/16/jekyll_social_sharing.html но в уставноленной теме уже ест ьфал для Мета (возможно он устрел), вообщем мета не отображается при прстинге, нужно разобраться как правильно.
 
 
 --
