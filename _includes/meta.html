@@ -21,7 +21,7 @@
 
     {% if page.image %}
       <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
-      <meta name="twitter:image:src" content="{{ site.url }}{{ page.image }}">
+      <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
     {% else %}
       <!-- Если в посте нету фоток, будет подставлятся та которую я пропишу, в данном варианте я захотел подставлять логотип.
            Отключил, потмоу что если в логотипе фотка .svg то при постинге в фейсбук он говорит ошибка фото
@@ -33,5 +33,10 @@
       <meta name="twitter:image:src" content="{{ site.url }}/images/photo-for-posts-fb-tw-800x600.png">
     {% endif %}
 
-    <meta name="twitter:card" content="summary" />
-    <!-- meta name="twitter:site" content="@vadymvolos" / -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@vadymvolos" />
+<meta name="twitter:title" content="{{ page.title }}" />
+<meta name="twitter:description" content="{{ page.description }}" />
+<meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
+
