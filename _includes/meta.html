@@ -6,11 +6,11 @@
     {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
     <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
-<meta name="twitter:description" content="{{ page.excerpt| strip_html }}" />
+    <meta name="twitter:description" content="{{ page.excerpt| strip_html }}" />
     {% else %}
     <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}" />
-<meta name="twitter:description" content="{{ site.description }}" />
+    <meta name="twitter:description" content="{{ site.description }}" />
     {% endif %}
 
     <meta name="author" content="{{ site.name }}" />
@@ -19,8 +19,8 @@
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="twitter:title" content="{{ page.title }}" />
     {% else %}
-<meta property="og:title" content="Подробно на сайте..." /> <!-- Я добавил, чтоб на главной был тайтл, ибо твиттер тогда не постит, тайтл в метатегагх обязателен -->
-<meta property="twitter:title" content="Подробно на сайте..." /> <!-- Я добавил, чтоб на главной был тайтл, ибо твиттер тогда не постит, тайтл в метатегагх обязателен -->
+    <meta property="og:title" content="{{ site.name }}" /> <!-- тайтл в метатегагх обязателен и на главной тоже, твиттер это поле подставляет в заголовок твитта -->
+    <meta property="twitter:title" content="{{ site.name }}" /> <!-- тайтл в метатегагх обязателен и на главной тоже, твиттер это поле подставляет в заголовок твитта -->
     {% endif %}
 
 <!-- Все ниже я добавил, для теста -->
