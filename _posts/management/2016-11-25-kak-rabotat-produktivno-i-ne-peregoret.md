@@ -21,4 +21,4 @@ image:
 <div class="yt-video-container-1">
     <iframe src="https://www.youtube.com/embed/bzbWc8e2fLs?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-Авторские права Dmitry Litvak (организатор вебинара), Дмитрий Иванченко (провел вебинар).
+Авторские права: Dmitry Litvak (организатор вебинара) и Дмитрий Иванченко (провел вебинар).
