@@ -26,7 +26,7 @@ image:
 
 <h3>Платные курсы по Google AdWords:</h3>
 <ul>
-  <li><a href="http://netology.ru/programs/context-target?pid=up5293644" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Контекстная реклама: как извлечь максимум для бизнеса (6 недель)</a></li>
+  <li><a href="http://netology.ru/programs/context-target?pid=up5293644" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Контекстная реклама: как извлечь максимум для бизнеса (6 недель, Google AdWords и Яндекс Директ)</a></li>
 </ul>
 
 <h3>Бесплатные курсы по Яндекс Директ:</h3>
@@ -35,3 +35,6 @@ image:
 </ul>
 
 <h3>Платные курсы по Яндекс Директ:</h3>
+<ul>
+  <li><a href="http://netology.ru/programs/context-target?pid=up5293644" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Контекстная реклама: как извлечь максимум для бизнеса (6 недель, Google AdWords и Яндекс Директ)</a></li>
+</ul>
