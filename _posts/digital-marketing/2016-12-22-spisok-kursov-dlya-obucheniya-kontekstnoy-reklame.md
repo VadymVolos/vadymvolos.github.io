@@ -4,7 +4,7 @@ title: Cписок курсов для обучения контекстной �
 description: Моя статья на тему зачем и когда нужно определять целевую аудиторию.
 categories: [Уроки Интернет Маркетинг]
 tags: [Контекстная реклама, Google AdWords]
-image:
+image: /images/posts/spisok-kursov-dlya-obucheniya-kontekstnoy-reklame.png
 ---
 <style>
 .post ul {padding-left: 20px;}
