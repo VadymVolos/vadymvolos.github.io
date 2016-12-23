@@ -24,7 +24,7 @@ image:
 <h3>Бесплатные курсы по Google AdWords:</h3>
 <ul>
   <li><a href="http://netology.ru/programs/google-words?pid=up5293644" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Google AdWords: подготовка к сдаче экзамена по поисковой рекламе (2 недели)</a></li>
-    <li><a href="https://support.google.com/adwords/" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Официальная подробная справка по AdWords от Гугл (текст и видео)</a></li>
+    <li><a href="https://support.google.com/adwords/" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Официальная справка по AdWords от Гугл</a></li>
 </ul>
 
 <h3>Платные курсы по Google AdWords:</h3>
@@ -34,7 +34,7 @@ image:
 
 <h3>Бесплатные курсы по Яндекс Директ:</h3>
 <ul>
-  <li><a href="https://yandex.ru/support/direct/" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Официальная подробная справка по Директ от Яндекса (текст и видео)</a></li>
+  <li><a href="https://yandex.ru/support/direct/" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Официальная справка по Директ от Яндекса</a></li>
 </ul>
 
 <h3>Платные курсы по Яндекс Директ:</h3>
