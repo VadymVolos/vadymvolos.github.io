@@ -25,6 +25,9 @@ image: /images/posts/spisok-kursov-dlya-obucheniya-kontekstnoy-reklame.png
 <ul>
   <li><a href="http://netology.ru/programs/google-words?pid=up5293644" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Google AdWords: подготовка к сдаче экзамена по поисковой рекламе (2 недели)</a></li>
     <li><a href="https://support.google.com/adwords/" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Официальная справка по AdWords от Гугл</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PLm4rB-wmRQyyBlv0fWtbXtWET2EVq2laL/" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Онлайн-школа Google AdWords (миникурс от Гугл)</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PLm4rB-wmRQyxH_jCwBE2CmRof-xyHf086" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Онлайн-школа Google Adwords КМС (миникурс от Гугл)</a></li>
+        
 </ul>
 
 <h3>Платные курсы по Google AdWords:</h3>
