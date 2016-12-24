@@ -309,7 +309,13 @@ footer {
     padding: 20px 0;
     text-align: center;
     text-align: right; /* Я добавил */
+    1display: flex; /* Я добавил */
+}
+.copyright-v1-line1 { /* Я добавил */
     display: flex; /* Я добавил */
+}
+.copyright-v1-line1 { /* Я добавил */
+
 }
 .copyright-v1 { /* Я добавил */
     text-align: left;
@@ -320,7 +326,9 @@ footer {
 .copyright-social { /* Я добавил */
     margin-left: 1em;
 }
+.copyright-v1-description { /* Я добавил */
 
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
