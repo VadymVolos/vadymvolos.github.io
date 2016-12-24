@@ -136,6 +136,7 @@ img {
   -webkit-transition: all 0.9s ease-in-out; /* Я добавил */
   transition: all 0.9s ease-in-out; /* Я добавил */
   /* font-style: italic; */
+  display: none; /* Я добавил, решил отключить дату в постах и дату в списке на главной */
 }
 .date:hover { /* Я добавил */
   color: $gray;
