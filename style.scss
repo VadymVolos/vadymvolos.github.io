@@ -315,9 +315,9 @@ footer {
     display: flex;
 }
 .copyright-v1-line2 { /* Я добавил */
-
+    display: flex;
 }
-.copyright-v1 { /* Я добавил */
+.copyright-v1, .copyright-v1-description { /* Я добавил */
     text-align: left;
     font-size: 0.94em;
     margin-bottom: 0.1em;
