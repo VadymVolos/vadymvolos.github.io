@@ -27,6 +27,10 @@ image: /images/posts/spisok-kursov-dlya-obucheniya-kontekstnoy-reklame.png
     <li><a href="https://support.google.com/adwords/" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Официальная справка по AdWords от Гугл</a></li>
     <li><a href="https://www.youtube.com/playlist?list=PLm4rB-wmRQyyBlv0fWtbXtWET2EVq2laL/" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Онлайн-школа Google AdWords (миникурс от Гугл)</a></li>
     <li><a href="https://www.youtube.com/playlist?list=PLm4rB-wmRQyxH_jCwBE2CmRof-xyHf086" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Онлайн-школа Google Adwords КМС (миникурс от Гугл)</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PLxGkMcS0U90pLhtL3pOPX8X1GFh-SrJ6m" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Серия вебинаров "Реклама в контекстно-медийной сети" (от Гугл)</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PLxGkMcS0U90qUSqYbqS5cht7y3QjdZ0bu" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Серия вебинаров "Видеореклама" (от Гугл)</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PLxGkMcS0U90q_qad7wjKrY7OknZotJ9Hr" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Серия вебинаров "Реклама в поисковой сети" (от Гугл)</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PLxGkMcS0U90pzyX0Rbv-tDZ5lBfehOREe" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Серия вебинаров "Мобильная реклама в Google AdWords" (от Гугл)</a></li>
         
 </ul>
 
