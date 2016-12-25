@@ -28,3 +28,4 @@ If you have questions about whether your use or intended use falls into these ca
 Вообщем:
 - Сайт на GitHub Pages может быть не больше 1Гб.
 - Общий трафик в месяц не больше 100Гб.
+- soft limit of 10 builds per hour - это я не понял, только 10 запросов в час?
