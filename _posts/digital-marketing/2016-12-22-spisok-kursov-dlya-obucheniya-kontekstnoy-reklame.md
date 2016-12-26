@@ -19,28 +19,28 @@ image: /images/posts/spisok-kursov-dlya-obucheniya-kontekstnoy-reklame.png
 
 <h3>Бесплатные курсы по Google AdWords:</h3>
 <ul>
-  <li><a href="http://netology.ru/programs/google-words?pid=up5293644" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Google AdWords: подготовка к сдаче экзамена по поисковой рекламе (2 недели)</a></li>
-    <li><a href="https://support.google.com/adwords/" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Официальная справка по AdWords от Гугл</a></li>
-    <li><a href="https://www.youtube.com/playlist?list=PLm4rB-wmRQyyBlv0fWtbXtWET2EVq2laL/" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Онлайн-школа Google AdWords (миникурс от Гугл)</a></li>
-    <li><a href="https://www.youtube.com/playlist?list=PLm4rB-wmRQyxH_jCwBE2CmRof-xyHf086" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Онлайн-школа Google Adwords КМС (миникурс от Гугл)</a></li>
-    <li><a href="https://www.youtube.com/playlist?list=PLxGkMcS0U90pLhtL3pOPX8X1GFh-SrJ6m" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Серия вебинаров "Реклама в контекстно-медийной сети" (от Гугл)</a></li>
-    <li><a href="https://www.youtube.com/playlist?list=PLxGkMcS0U90qUSqYbqS5cht7y3QjdZ0bu" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Серия вебинаров "Видеореклама" (от Гугл)</a></li>
-    <li><a href="https://www.youtube.com/playlist?list=PLxGkMcS0U90q_qad7wjKrY7OknZotJ9Hr" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Серия вебинаров "Реклама в поисковой сети" (от Гугл)</a></li>
-    <li><a href="https://www.youtube.com/playlist?list=PLxGkMcS0U90pzyX0Rbv-tDZ5lBfehOREe" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Серия вебинаров "Мобильная реклама в Google AdWords" (от Гугл)</a></li>
+    <li><a rel="nofollow" target="_blank" class="hvr-wobble-vertical" href="http://netology.ru/programs/google-words?pid=up5293644" onclick="ga('send', 'event', 'outbound', 'click', 'http://netology.ru/programs/google-words?pid=up5293644');">Google AdWords: подготовка к сдаче экзамена по поисковой рекламе (2 недели)</a></li>
+    <li><a rel="nofollow" target="_blank" class="hvr-wobble-vertical" href="https://support.google.com/adwords/" onclick="ga('send', 'event', 'outbound', 'click', 'https://support.google.com/adwords/');">Официальная справка по AdWords от Гугл</a></li>
+    <li><a rel="nofollow" target="_blank" class="hvr-wobble-vertical" href="https://www.youtube.com/playlist?list=PLm4rB-wmRQyyBlv0fWtbXtWET2EVq2laL/" onclick="ga('send', 'event', 'outbound', 'click', 'https://www.youtube.com/playlist?list=PLm4rB-wmRQyyBlv0fWtbXtWET2EVq2laL/');">Онлайн-школа Google AdWords (миникурс от Гугл)</a></li>
+    <li><a rel="nofollow" target="_blank" class="hvr-wobble-vertical" href="https://www.youtube.com/playlist?list=PLm4rB-wmRQyxH_jCwBE2CmRof-xyHf086" onclick="ga('send', 'event', 'outbound', 'click', 'https://www.youtube.com/playlist?list=PLm4rB-wmRQyxH_jCwBE2CmRof-xyHf086');">Онлайн-школа Google Adwords КМС (миникурс от Гугл)</a></li>
+    <li><a rel="nofollow" target="_blank" class="hvr-wobble-vertical" href="https://www.youtube.com/playlist?list=PLxGkMcS0U90pLhtL3pOPX8X1GFh-SrJ6m" onclick="ga('send', 'event', 'outbound', 'click', 'https://www.youtube.com/playlist?list=PLxGkMcS0U90pLhtL3pOPX8X1GFh-SrJ6m');">Серия вебинаров "Реклама в контекстно-медийной сети" (от Гугл)</a></li>
+    <li><a rel="nofollow" target="_blank" class="hvr-wobble-vertical" href="https://www.youtube.com/playlist?list=PLxGkMcS0U90qUSqYbqS5cht7y3QjdZ0bu" onclick="ga('send', 'event', 'outbound', 'click', 'https://www.youtube.com/playlist?list=PLxGkMcS0U90qUSqYbqS5cht7y3QjdZ0bu');">Серия вебинаров "Видеореклама" (от Гугл)</a></li>
+    <li><a rel="nofollow" target="_blank" class="hvr-wobble-vertical" href="https://www.youtube.com/playlist?list=PLxGkMcS0U90q_qad7wjKrY7OknZotJ9Hr" onclick="ga('send', 'event', 'outbound', 'click', 'https://www.youtube.com/playlist?list=PLxGkMcS0U90q_qad7wjKrY7OknZotJ9Hr');">Серия вебинаров "Реклама в поисковой сети" (от Гугл)</a></li>
+    <li><a rel="nofollow" target="_blank" class="hvr-wobble-vertical" href="https://www.youtube.com/playlist?list=PLxGkMcS0U90pzyX0Rbv-tDZ5lBfehOREe" onclick="ga('send', 'event', 'outbound', 'click', 'https://www.youtube.com/playlist?list=PLxGkMcS0U90pzyX0Rbv-tDZ5lBfehOREe');">Серия вебинаров "Мобильная реклама в Google AdWords" (от Гугл)</a></li>
         
 </ul>
 
 <h3>Платные курсы по Google AdWords:</h3>
 <ul>
-  <li><a href="http://netology.ru/programs/context-target?pid=up5293644" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Контекстная реклама: как извлечь максимум для бизнеса (6 недель, Google AdWords и Яндекс Директ)</a></li>
+  <li><a rel="nofollow" target="_blank" class="hvr-wobble-vertical" href="http://netology.ru/programs/context-target?pid=up5293644" onclick="ga('send', 'event', 'outbound', 'click', 'http://netology.ru/programs/context-target?pid=up5293644');">Контекстная реклама: как извлечь максимум для бизнеса (6 недель, Google AdWords и Яндекс Директ)</a></li>
 </ul>
 
 <h3>Бесплатные курсы по Яндекс Директ:</h3>
 <ul>
-  <li><a href="https://yandex.ru/support/direct/" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Официальная справка по Директ от Яндекса</a></li>
+  <li><a rel="nofollow" target="_blank" class="hvr-wobble-vertical" href="https://yandex.ru/support/direct/" onclick="ga('send', 'event', 'outbound', 'click', 'https://yandex.ru/support/direct/');">Официальная справка по Директ от Яндекса</a></li>
 </ul>
 
 <h3>Платные курсы по Яндекс Директ:</h3>
 <ul>
-  <li><a href="http://netology.ru/programs/context-target?pid=up5293644" rel="nofollow" target="_blank" class="hvr-wobble-vertical">Контекстная реклама: как извлечь максимум для бизнеса (6 недель, Google AdWords и Яндекс Директ)</a></li>
+  <li><a rel="nofollow" target="_blank" class="hvr-wobble-vertical" href="http://netology.ru/programs/context-target?pid=up5293644" onclick="ga('send', 'event', 'outbound', 'click', 'http://netology.ru/programs/context-target?pid=up5293644');">Контекстная реклама: как извлечь максимум для бизнеса (6 недель, Google AdWords и Яндекс Директ)</a></li>
 </ul>
