@@ -6,6 +6,8 @@ categories: [Уроки Интернет Маркетинг]
 tags: [Контекстная реклама, Google AdWords]
 image: /images/posts/spisok-kursov-dlya-obucheniya-kontekstnoy-reklame.png
 ---
+![_config.yml]({{ site.baseurl }}/images/posts/spisok-kursov-dlya-obucheniya-kontekstnoy-reklame.png)
+
 Частенько меня просят порекомендовать курсы для обучения контекстной рекламы, и поэтому решил создать эту страничку где буду вести список курсов. Когда будут хоршие курсы мне попадатся буду сюда их добавлять.
 
 Про контекстную рекламу, зачем она нужна, напишу чуть позже в отдельной статье, и добавлю ссылку на нее тут.
