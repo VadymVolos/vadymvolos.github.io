@@ -124,6 +124,9 @@ strong, b {
 img {
   max-width: 100%;
 }
+.post .entry img:first-child { /* Я добавил, тень для первой фотки в посте */
+  box-shadow:1px 1px 1px 1px #ddd;
+}
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
