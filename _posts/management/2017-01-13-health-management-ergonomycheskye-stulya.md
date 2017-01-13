@@ -16,7 +16,7 @@ Life Management, Health Management, Time Management это все я объед�
     <iframe src="https://www.youtube.com/embed/lw61mDbemjw?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 <br>
-Варианты эргономических стульев:
+<h3>Варианты эргономических стульев:</h3>
 <ul>
 <li>Коленный стул</li>
 <li>Шарнирный стул (танцующий стул на пружине)</li>
