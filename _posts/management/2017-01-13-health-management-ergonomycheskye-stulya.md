@@ -15,7 +15,7 @@ Life Management, Health Management, Time Management это все я объед�
 <div class="yt-video-container-1">
     <iframe src="https://www.youtube.com/embed/lw61mDbemjw?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
-
+<br>
 Варианты эргономических стульев:
 <ul>
 <li>Коленный стул</li>
