@@ -26,14 +26,10 @@
   width: 100%;
   display: block;
   cursor: pointer;
-  font-weight: 600;
-  line-height: 3;
-  /*
-  font-size: 14px;
-  font-size: 0.875rem;
-  */
+  line-height: 2.7;
   text-indent: 15px;
   user-select: none;
+  color: #afafaf;
 }
 .accordion a:after {
   width: 8px;
