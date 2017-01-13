@@ -2,8 +2,9 @@
 /* /_sass/_sexy-accordion-spoiler.scss */
 /***********************************************************/
 
-.content .category .title a[title="Тест 1"] { /* отключил вывод тестового поста на глвной */
-      display: none;
+.content .category .title a[title="Тест 1"], 
+.content .category .title a[href="https://vadymvolos.github.io/test-1/"] { 
+      display: none; /* отключил вывод тестового поста на глвной */
 }
 
 // ACCORDION
