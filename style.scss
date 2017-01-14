@@ -317,23 +317,23 @@ footer {
     text-align: right; /* Я добавил */
     /* display: flex; Я добавил */
 }
-.copyright-v1-line1 { /* Я добавил */
+.footer-line1 { /* Я добавил */
     display: flex;
     margin-bottom: -12px;
 }
-.copyright-v1-line2 { /* Я добавил */
+.footer-line2 { /* Я добавил */
     display: flex;
 }
-.copyright-v1, .copyright-v1-description { /* Я добавил */
+.footer-copyright, .footer-description { /* Я добавил */
     text-align: left;
     font-size: 0.94em;
     margin-bottom: 0.1em;
     margin-top: 0.15em;
 }
-.copyright-social { /* Я добавил */
+.footer-social { /* Я добавил */
     margin-left: 1em;
 }
-.copyright-v1-description { /* Я добавил */
+.footer-description { /* Я добавил */
 
 }
 
