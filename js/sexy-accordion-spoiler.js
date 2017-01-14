@@ -2,7 +2,7 @@
    //первая-вкладка-была-открыта-отключил-теперь-по умолчанию-все-закрыты $('.accordion > li:eq(0) a').addClass('active').next().slideDown();
 
     $('.accordion a').click(function(j) {
-        var dropDown = $(this).closest('li').find('.accordion-content');
+        var dropDown = $(this).closest('.accordion-li').find('.accordion-content');
 
         $(this).closest('.accordion').find('.accordion-content').not(dropDown).slideUp();
 
