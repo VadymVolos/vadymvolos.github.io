@@ -334,8 +334,11 @@ footer {
     margin-left: 1em;
 }
 .footer-description { /* Я добавил */
-
 }
+.footer-line3-1, .footer-line3-2, .footer-line3-3 { /* Я добавил */
+    margin-right: 10px;
+}
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
