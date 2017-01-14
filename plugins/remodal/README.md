@@ -11,4 +11,5 @@ https://vadymvolos.github.io/  и была ссылка без хвоста,
 нужно дописть в код  data-remodal-options="hashTracking: false"  
 Пример:  
 <div class="remodal" data-remodal-id="modal" data-remodal-options="hashTracking: false">  
+Но возможно для отслеживания статистиуи когда в ссылке будет айдишник это хорошо.
 ```
