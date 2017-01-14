@@ -1,6 +1,6 @@
 (function($) {
     // первая-вкладка-была-открыта-отключил-теперь-по умолчанию-все-закрыты 
-    $('.accordion > .accordion-li:eq(0) .accordion-a').addClass('active').next().slideDown();
+    // $('.accordion > .accordion-li:eq(0) .accordion-a').addClass('active').next().slideDown();
 
     $('.accordion .accordion-a').click(function(j) {
         var dropDown = $(this).closest('.accordion-li').find('.accordion-content');
