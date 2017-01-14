@@ -16,11 +16,13 @@
 .accordion {
   max-width: 740px;
   margin: 0 auto;
-  border-top: 1px solid #d9e5e8;
+  /*border-top: 1px solid #d9e5e8;*/
 }
 .accordion .accordion-li {
-  border-bottom: 1px solid #d9e5e8;
+  border-bottom: 2px solid #d9e5e8;
   position: relative;
+  background-color: #fce511;
+  margin-bottom: 4px;
 }
 .accordion .accordion-li .accordion-content { /* p нужно убрать и заменить на дивы с классом .accordion-content  */
   display: none;
