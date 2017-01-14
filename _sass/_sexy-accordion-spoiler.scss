@@ -13,6 +13,9 @@
   padding-left: 0px;
 }
 
+@media screen and (max-width: 640px) {
+  .accordion {margin-left: -10px; margin-right: -10px;}
+}
 .accordion {
   max-width: 740px;
   margin: 0 auto;
