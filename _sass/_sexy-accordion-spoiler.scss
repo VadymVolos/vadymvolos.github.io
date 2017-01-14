@@ -6,9 +6,6 @@
 .content .category .title a[href="https://vadymvolos.github.io/test-1/"] { 
       display: none; /* отключил вывод тестового поста на глвной */
 }
-.yt-video-container-1 .adDisplay {
-      display: none; /* пробую отключить рекламу в ютуб видео */
-}
 
 // ACCORDION
 #main ul.accordion {
@@ -21,11 +18,11 @@
   margin: 0 auto;
   border-top: 1px solid #d9e5e8;
 }
-.accordion li {
+.accordion-li {
   border-bottom: 1px solid #d9e5e8;
   position: relative;
 }
-.accordion li .accordion-content { /* p нужно убрать и заменить на дивы с классом .accordion-content  */
+.accordion-li .accordion-content { /* p нужно убрать и заменить на дивы с классом .accordion-content  */
   display: none;
   padding: 10px 25px 30px;
   color: #636363;
