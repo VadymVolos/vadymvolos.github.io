@@ -24,20 +24,11 @@
   background-color: #fce511;
   margin-bottom: 4px;
 }
-.accordion .accordion-li .accordion-content {
+.accordion .accordion-content {
   display: none;
   padding: 10px 25px 30px;
-  color: #636363;
 }
-.accordion .accordion-content {
-  /*
-  font-size: 13px;
-  font-size: 0.8125rem;
-  line-height: 2;
-  padding: 10px;
-  */
-}
-.accordion .accordion-a, .accordion .accordion-a:hover, .accordion .accordion-a:active {
+.accordion .accordion-a, .accordion .accordion-a:hover, .accordion .accordion-a:active, .accordion .accordion-content {
     color: #636363;
 }
 .accordion .accordion-a {
