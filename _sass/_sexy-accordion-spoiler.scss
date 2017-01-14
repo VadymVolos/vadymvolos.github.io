@@ -22,7 +22,6 @@
   border-bottom: 1px solid #d9e5e8;
   position: relative;
 }
-.accordion li p,
 .accordion li .accordion-content { /* p нужно убрать и заменить на дивы с классом .accordion-content  */
   display: none;
   padding: 10px 25px 30px;
@@ -53,7 +52,7 @@
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
 }
-.accordion p {
+.accordion .accordion-content {
   /*
   font-size: 13px;
   font-size: 0.8125rem;
