@@ -6,6 +6,9 @@
 .content .category .title a[href="https://vadymvolos.github.io/test-1/"] { 
       display: none; /* отключил вывод тестового поста на глвной */
 }
+.yt-video-container-1 .adDisplay {
+      display: none; /* пробую отключить рекламу в ютуб видео */
+}
 
 // ACCORDION
 #main ul.accordion {
