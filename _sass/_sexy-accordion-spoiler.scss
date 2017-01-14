@@ -13,9 +13,6 @@
   padding-left: 0px;
 }
 
-@media screen and (max-width: 640px) {
-  .accordion {margin-left: -10px; margin-right: -10px;}
-}
 .accordion {
   max-width: 740px;
   margin: 0 auto;
@@ -61,4 +58,8 @@
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
+}
+
+@media screen and (max-width: 640px) {
+  .accordion {margin-left: -10px; margin-right: -10px;}
 }
