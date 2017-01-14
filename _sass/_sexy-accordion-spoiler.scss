@@ -24,10 +24,18 @@
   background-color: #fce511;
   margin-bottom: 4px;
 }
-.accordion .accordion-li .accordion-content { /* p нужно убрать и заменить на дивы с классом .accordion-content  */
+.accordion .accordion-li .accordion-content {
   display: none;
   padding: 10px 25px 30px;
   color: #636363;
+}
+.accordion .accordion-content {
+  /*
+  font-size: 13px;
+  font-size: 0.8125rem;
+  line-height: 2;
+  padding: 10px;
+  */
 }
 .accordion .accordion-a, .accordion .accordion-a:hover, .accordion .accordion-a:active {
     color: #636363;
@@ -37,7 +45,7 @@
   display: block;
   cursor: pointer;
   line-height: 2.7;
-  text-indent: 15px;
+  text-indent: 24px;
   user-select: none;
 }
 .accordion .accordion-a:after {
@@ -46,21 +54,13 @@
   border-right: 1px solid #4a6e78;
   border-bottom: 1px solid #4a6e78;
   position: absolute;
-  right: 14px;
+  right: 20px;
   content: " ";
   top: 19px;
   transform: rotate(-45deg);
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-}
-.accordion .accordion-content {
-  /*
-  font-size: 13px;
-  font-size: 0.8125rem;
-  line-height: 2;
-  padding: 10px;
-  */
 }
 .accordion-a.active:after {
   transform: rotate(45deg);
