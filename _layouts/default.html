@@ -61,7 +61,25 @@
     <!-- plugins remodal -->
     <link rel="stylesheet" href="{{ site.baseurl }}/plugins/remodal/remodal.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/plugins/remodal/remodal-default-theme.css">
-    <script src="{{ site.baseurl }}/plugins/remodal/remodal.min.js"></script>    
+    <script src="{{ site.baseurl }}/plugins/remodal/remodal.min.js"></script>
+    
+    <link rel="stylesheet" type="text/css" href="http://fancyapps.com/fancybox/source/jquery.fancybox.css">
+    <script type="text/javascript" src="https://fancyapps.com/fancybox/source/jquery.fancybox.js"></script>
+    <script>
+      $(document).ready(function() {
+        $(".iframe-1").fancybox({
+          maxWidth	: 800,
+          maxHeight	: 2400,
+          fitToView	: false,
+          width		: '70%',
+          height		: '98%',
+          autoSize	: false,
+          closeClick	: false,
+          openEffect	: 'none',
+          closeEffect	: 'none'
+        });
+      });
+    </script>
     <!-- /plugin remodal -->
 
   </body>
