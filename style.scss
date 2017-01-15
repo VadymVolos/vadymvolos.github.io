@@ -342,7 +342,8 @@ footer {
 .footer-line3-1, .footer-line3-2, .footer-line3-3 { /* Я добавил */
     margin-right: 20px;
 }
-.footer-line3 a {color: #d6c20f;}
+.footer-line3 a {color: #d6c20f; font-size: 13px;}
+.footer-line3 a:hover {color: #b3a20e;}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
