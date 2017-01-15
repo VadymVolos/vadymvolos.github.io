@@ -3,6 +3,7 @@ layout: page
 title: Политика конфиденциальности
 permalink: policies/privacy/
 ---
+<meta name="robots" content="noindex">
 
 <h3>Политика конфиденциальности</h3>
 
