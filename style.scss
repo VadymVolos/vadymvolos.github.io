@@ -320,30 +320,34 @@ footer {
     text-align: right; /* Я добавил */
     /* display: flex; Я добавил */
 }
-.footer-line1, .footer-line2, .footer-line3 { /* Я добавил */
+
+/* Блоки для футера - ксс я добавил */
+.footer-line1, .footer-line2, .footer-line3 {
     text-align: left;
     font-size: 0.94em;
     margin-bottom: 0.1em;
     margin-top: 0.15em;
 }
-.footer-line1 { /* Я добавил */
+.footer-line1 {
     display: flex;
     margin-bottom: -4px;
 }
-.footer-line2, .footer-line3 { /* Я добавил */
+.footer-line2, .footer-line3 { 
     display: flex;
 }
-.footer-social { /* Я добавил */
-    margin-left: 1em;
+.footer-social { 
+    margin-left: 10px;
+    margin-top: -4px;
 }
-.footer-description { /* Я добавил */
+.footer-description {
 }
 .footer-line2 {margin-bottom: 10px;}
-.footer-line3-1, .footer-line3-2, .footer-line3-3 { /* Я добавил */
+.footer-line3-1, .footer-line3-2, .footer-line3-3 {
     margin-right: 20px;
 }
 .footer-line3 a {color: #d6c20f; font-size: 13px;}
 .footer-line3 a:hover {color: #b3a20e;}
+/* /Блоки для футера - ксс я добавил */
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
