@@ -44,11 +44,14 @@ Life Management, Health Management, Time Management это все я объед�
 	  <div class="accordion-content">
 	  Есть три варианта стула: без спинки, со спинкой которая прикреплена к седушке, со спинкой которая прикреплена к нижней подставке. Цена на сайте (swopper.com) стула без спинки 900 юсд, со спинкой 1400 юсд.
                <div class="yt-video-container-1">
-		    <iframe src="https://www.youtube.com/embed/D0oovXobVX4?rel=0" frameborder="0" allowfullscreen></iframe>
+                    <iframe src="https://www.youtube.com/embed/D0oovXobVX4?rel=0" frameborder="0" allowfullscreen></iframe>
 	       </div>
                <div class="yt-video-container-1">
-	            <iframe src="https://www.youtube.com/embed/K2BX_BNAaBk?rel=0" frameborder="0" allowfullscreen></iframe>
-	       </div>        
+                    <iframe src="https://www.youtube.com/embed/K2BX_BNAaBk?rel=0" frameborder="0" allowfullscreen></iframe>
+               </div>
+	       <div class="yt-video-container-1">
+                    <iframe src="https://www.youtube.com/embed/dex-y66vTkQ?rel=0" frameborder="0" allowfullscreen></iframe>
+               </div>    
           </div>
     </li>
     <li class="accordion-li">
