@@ -91,8 +91,11 @@ Life Management, Health Management, Time Management это все я объед�
                    <iframe src="https://www.youtube.com/embed/OKzTr2F9K10?rel=0" frameborder="0" allowfullscreen></iframe>
                 </div>
                 На видео показано как пружина крепится к сидушке, нет никаког омеханизма прост опроужина приварена к пластине.
-		<div class="yt-video-container-1">
+                <div class="yt-video-container-1">
                    <iframe src="https://www.youtube.com/embed/yVIRK-BwxbA?rel=0" frameborder="0" allowfullscreen></iframe>
+                </div>
+               <div class="yt-video-container-1">
+                   <iframe src="https://www.youtube.com/embed/4rgbJkW9mk4?rel=0" frameborder="0" allowfullscreen></iframe>
                 </div>
         </div>
     </li>
