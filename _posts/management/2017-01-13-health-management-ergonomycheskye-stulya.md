@@ -49,9 +49,13 @@ Life Management, Health Management, Time Management это все я объед�
                <div class="yt-video-container-1">
                     <iframe src="https://www.youtube.com/embed/K2BX_BNAaBk?rel=0" frameborder="0" allowfullscreen></iframe>
                </div>
-	       <div class="yt-video-container-1">
+               <div class="yt-video-container-1">
                     <iframe src="https://www.youtube.com/embed/dex-y66vTkQ?rel=0" frameborder="0" allowfullscreen></iframe>
-               </div>    
+               </div>
+	       Мужик решил сам такой стул сделать, получилось не очень, лучше тогда фитнес мяч юзать.
+	       <div class="yt-video-container-1">
+                    <iframe src="https://www.youtube.com/embed/NdXMQGySqRw?rel=0" frameborder="0" allowfullscreen></iframe>
+               </div>  
           </div>
     </li>
     <li class="accordion-li">
