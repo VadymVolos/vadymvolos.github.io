@@ -63,8 +63,11 @@ Life Management, Health Management, Time Management это все я объед�
 	  <div class="accordion-content">
 	        Альтернатива фитнес мячу, но более удобен и устойчив. Цена на сайте 213 юсд (store.steelcase.com/seating/lounge/buoy).
                 <div class="yt-video-container-1">
+                   <iframe src="https://www.youtube.com/embed/RlL62A9lkRo?rel=0" frameborder="0" allowfullscreen></iframe>
+                </div>
+		<div class="yt-video-container-1">
                    <iframe src="https://www.youtube.com/embed/3yVlV8jXTlE?rel=0" frameborder="0" allowfullscreen></iframe>
-                </div>        
+                </div>  
           </div>
     </li>
     <li class="accordion-li">
