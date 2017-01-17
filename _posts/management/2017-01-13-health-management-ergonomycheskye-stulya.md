@@ -20,7 +20,7 @@ Life Management, Health Management, Time Management это все я объед�
 <h3>Варианты эргономических стульев:</h3>
 <ul>
 <li>Коленный стул</li>
-<li>Шарнирный стул (танцующий стул на пружине) spinalischairs.co.uk, spinalis-chairs.ca</li>
+<li>Шарнирный стул (танцующий стул на пружине)</li>
 <li>Коленный стул качалка</li>
 <li>Танцующий стул без пружины</li>
 <li>Стул седло с седением из двух половинок</li>
@@ -65,7 +65,7 @@ Life Management, Health Management, Time Management это все я объед�
     <li class="accordion-li">
 	 <a class="accordion-a">Spinalis Chairs</a>		
 	 <div class="accordion-content">
-	        Средняя цена стула Spinalis со спикой 750 фунтов, это где то 910 юсд. С маленькой спинкой 450 фунтов.
+	        Средняя цена стула Spinalis со спикой 750 фунтов, это где то 910 юсд. С маленькой спинкой 450 фунтов. Сайты spinalischairs.co.uk, spinalis-chairs.ca
 		<div class="yt-video-container-1">
                    <iframe src="https://www.youtube.com/embed/6s8m0rPtB5I?rel=0" frameborder="0" allowfullscreen></iframe>
                 </div>
