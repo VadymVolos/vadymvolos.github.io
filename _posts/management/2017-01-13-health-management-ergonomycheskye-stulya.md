@@ -36,31 +36,44 @@ Life Management, Health Management, Time Management это все я объед�
 Когда будете долго сидеть на мяче, захотите на нем полежать, покрутится, чтоб отдхнуть, и в этот момент он может выскользнуть, чтоб он не выскальзнул сделайте длинную сосиску из одеяла и сделайте кольцо, положите кольцо на пол, а в него уже поставте мяч, это немного но обезопасит, также сзади мяча можете положить что-то мягкое и толстое. Но лучше вмсето мяча купить стул, так будет безопаснее. Кто-то может сесть на ваш мяч без подготовки, подскользнутся на нем и сильно повредить голову или спину.
 
 
-<h2>Варианты эргономических стульев (которые я нашел):</h2>
+<h3>Варианты эргономических стульев (которые я нашел):</h3>
 
 <ul class="accordion">
-	<li class="accordion-li">
-		<a class="accordion-a">Swopper Chair</a>		
-		<div class="accordion-content">    
-        <div class="yt-video-container-1">
+    <li class="accordion-li">
+	  <a class="accordion-a">Swopper Chair</a>		
+	  <div class="accordion-content">    
+               <div class="yt-video-container-1">
 		    <iframe src="https://www.youtube.com/embed/D0oovXobVX4?rel=0" frameborder="0" allowfullscreen></iframe>
-		</div>
-        <div class="yt-video-container-1">
-		    <iframe src="https://www.youtube.com/embed/K2BX_BNAaBk?rel=0" frameborder="0" allowfullscreen></iframe>
-		</div>
+	       </div>
+               <div class="yt-video-container-1">
+	            <iframe src="https://www.youtube.com/embed/K2BX_BNAaBk?rel=0" frameborder="0" allowfullscreen></iframe>
+	       </div>        
+          </div>
+    </li>
+    <li class="accordion-li">
+	  <a class="accordion-a">Buoy Chair</a>		
+	  <div class="accordion-content">   
+                <div class="yt-video-container-1">
+                   <iframe src="https://www.youtube.com/embed/3yVlV8jXTlE?rel=0" frameborder="0" allowfullscreen></iframe>
+                </div>        
+          </div>
+    </li>
+    <li class="accordion-li">
+	 <a class="accordion-a">Spinalis Chairs</a>		
+	 <div class="accordion-content">
+		<div class="yt-video-container-1">
+                   <iframe src="https://www.youtube.com/embed/6s8m0rPtB5I?rel=0" frameborder="0" allowfullscreen></iframe>
+                </div>
+                <div class="yt-video-container-1">
+                   <iframe src="https://www.youtube.com/embed/3zOpnD_7Z1U?rel=0" frameborder="0" allowfullscreen></iframe>
+                </div>
+                <div class="yt-video-container-1">
+                   <iframe src="https://www.youtube.com/embed/OKzTr2F9K10?rel=0" frameborder="0" allowfullscreen></iframe>
+                </div>  
         
         </div>
     </li>
-	<li class="accordion-li">
-		<a class="accordion-a">Buoy Chair</a>		
-		<div class="accordion-content">   
-        <div class="yt-video-container-1">
-		    <iframe src="https://www.youtube.com/embed/3yVlV8jXTlE?rel=0" frameborder="0" allowfullscreen></iframe>
-		</div>
-        
-        </div>
-    </li>
-    	<li class="accordion-li">
+    <li class="accordion-li">
 		<a class="accordion-a">Lorem ipsum</a>		
 		<div class="accordion-content">    
         
