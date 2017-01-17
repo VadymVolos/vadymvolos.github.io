@@ -41,7 +41,8 @@ Life Management, Health Management, Time Management это все я объед�
 <ul class="accordion">
     <li class="accordion-li">
 	  <a class="accordion-a">Swopper Chair</a>		
-	  <div class="accordion-content">    
+	  <div class="accordion-content">
+	       Есть три варианта стула: без спинки, со спинкой которая прикреплена к седушке, со спинкой которая прикреплена к нижней подставке.
                <div class="yt-video-container-1">
 		    <iframe src="https://www.youtube.com/embed/D0oovXobVX4?rel=0" frameborder="0" allowfullscreen></iframe>
 	       </div>
