@@ -61,6 +61,7 @@ Life Management, Health Management, Time Management это все я объед�
     <li class="accordion-li">
 	 <a class="accordion-a">Spinalis Chairs</a>		
 	 <div class="accordion-content">
+	        Средняя цена стула Spinalis со спикой 750 фунтов, это где то 910 юсд. С маленькой спинкой 450 фунтов.
 		<div class="yt-video-container-1">
                    <iframe src="https://www.youtube.com/embed/6s8m0rPtB5I?rel=0" frameborder="0" allowfullscreen></iframe>
                 </div>
