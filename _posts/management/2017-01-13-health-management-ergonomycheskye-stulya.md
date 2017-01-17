@@ -64,12 +64,15 @@ Life Management, Health Management, Time Management это все я объед�
 		<div class="yt-video-container-1">
                    <iframe src="https://www.youtube.com/embed/6s8m0rPtB5I?rel=0" frameborder="0" allowfullscreen></iframe>
                 </div>
+		Барышня собирает стул:
                 <div class="yt-video-container-1">
                    <iframe src="https://www.youtube.com/embed/3zOpnD_7Z1U?rel=0" frameborder="0" allowfullscreen></iframe>
                 </div>
+		Сравнение стульев на польском:
                 <div class="yt-video-container-1">
                    <iframe src="https://www.youtube.com/embed/OKzTr2F9K10?rel=0" frameborder="0" allowfullscreen></iframe>
-                </div>  
+                </div>
+		Из видео видно что пружина мало амортизирует и выполняет функцию наклона, а для амортизации под пружиной стоит амортизатор.
         
         </div>
     </li>
