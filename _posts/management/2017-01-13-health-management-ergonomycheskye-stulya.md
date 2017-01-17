@@ -101,13 +101,13 @@ Life Management, Health Management, Time Management это все я объед�
          </div>
     </li>
     
-    <!--
+
     <li class="accordion-li">
                 <a class="accordion-a">Lorem ipsum</a>
                 <div class="accordion-content">        
                 </div>
     </li>
-    -->
+  
   </ul> <!-- / accordion -->
     
     
