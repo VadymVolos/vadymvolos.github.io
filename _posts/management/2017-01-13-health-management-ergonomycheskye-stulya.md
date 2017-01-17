@@ -88,19 +88,19 @@ Life Management, Health Management, Time Management это все я объед�
                 <div class="yt-video-container-1">
                    <iframe src="https://www.youtube.com/embed/OKzTr2F9K10?rel=0" frameborder="0" allowfullscreen></iframe>
                 </div>
-		Из видео видно что пружина мало амортизирует и выполняет функцию наклона, а для амортизации под пружиной стоит амортизатор.
-        
+		Из видео видно что пружина мало амортизирует и выполняет функцию наклона, а для амортизации под пружиной стоит амортизатор.        
         </div>
     </li>
     <li class="accordion-li">
-                <a class="accordion-a">Fit Balance Ball Chair</a>
-                <div class="accordion-content">
+         <a class="accordion-a">Fit Balance Ball Chair</a>
+         <div class="accordion-content">
 		Подставка под мяч очень полезная вещь, если ее нет мяч выскальзывает и можно сильно долбантуся головой или позвоночником. Также на мяч сверху нужно положит ьмягкую подушку, потому как резиновый мяч холодный. 
 		<div class="yt-video-container-1">
                    <iframe src="https://www.youtube.com/embed/Q2DrHcsseVQ?rel=0" frameborder="0" allowfullscreen></iframe>
                 </div>
-                </div>
+         </div>
     </li>
+    
     <!--
     <li class="accordion-li">
                 <a class="accordion-a">Lorem ipsum</a>
