@@ -8,7 +8,7 @@ image:
 ---
 Что такое любовь с 1m32s
 <div class="yt-video-container-1">
-    <iframe src="https://www.youtube.com/embed/QzHeev8B0kM?t=92?rel=0" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/QzHeev8B0kM#t=1m32s?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 (Автор слов и роликов Антуан Наджарян)
 
