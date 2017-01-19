@@ -33,12 +33,12 @@ image:
     <iframe src="https://www.youtube.com/embed/xSmf5WuwX_M?t=8m48s?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Завоевывание лидерства у агрессора
+Завоевывание лидерства у агрессора:
 <div class="yt-video-container-1">
     <iframe src="https://www.youtube.com/embed/695Q43878rc?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Как сделать из непослушного подчиненного. И жалость и восхищение это проявление слабости.
+Как сделать из непослушного подчиненного (и жалость и восхищение это проявление слабости):
 <div class="yt-video-container-1">
     <iframe src="https://www.youtube.com/embed/Pv_9JTQVOHs?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
