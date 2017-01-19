@@ -40,5 +40,5 @@ image:
 
 Как сделать из непослушного подчиненного. И жалость и восхищение это проявление слабости.
 <div class="yt-video-container-1">
-    <iframe src="https://www.youtube.com/embed/https://youtu.be/Pv_9JTQVOHs?rel=0" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/Pv_9JTQVOHs?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
