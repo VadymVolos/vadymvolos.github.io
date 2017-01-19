@@ -32,3 +32,8 @@ image:
 <div class="yt-video-container-1">
     <iframe src="https://www.youtube.com/embed/xSmf5WuwX_M?t=8m48s?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
+
+Завоевывание лидерства у агрессора
+<div class="yt-video-container-1">
+    <iframe src="https://www.youtube.com/embed/695Q43878rc?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
