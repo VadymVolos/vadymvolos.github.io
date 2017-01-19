@@ -8,7 +8,7 @@ image:
 ---
 Что такое любовь с 1m32s
 <div class="yt-video-container-1">
-    <iframe src="https://www.youtube.com/embed/QzHeev8B0kM?t=1m32s?rel=0" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/QzHeev8B0kM?start=92?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Любовь это то чувство которое должно привести к балансу, к созиданию, к пониманию, к уравновешенности. Если наше чувство называемое любовь не приводит к этому, это не любовь, это в какой-то мере эгоизм. Потому что приходящие люди получают все что от него хотят, а что с ним происходит получается это им не интересно.
