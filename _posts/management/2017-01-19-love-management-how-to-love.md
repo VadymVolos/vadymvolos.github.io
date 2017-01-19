@@ -8,7 +8,7 @@ image:
 ---
 Что такое любовь с 1m32s
 <div class="yt-video-container-1">
-    <iframe src="https://www.youtube.com/embed/QzHeev8B0kM#t=1m32s?rel=0" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/QzHeev8B0kM?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 (Автор слов и роликов Антуан Наджарян)
 
@@ -21,7 +21,7 @@ image:
 
 Нельзя хвалить/поощрять при ошибках с 2m37s
 <div class="yt-video-container-1">
-    <iframe src="https://www.youtube.com/embed/L1sQmWhXNVI?t=2m37s?rel=0" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/L1sQmWhXNVI?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Постоянная любовь она пагубная. Вы должны не всегда его/ее любить, вы должны его/ее любить за то что хорошо он/а себя ведет. Чтобы он/а поняла за что меня любят. А то эта любовь теряет смысл. Даже с детьми это работает, когда ребенок что-то плохое делает не нужно любить, а то он это расценит как правильную модель поведения.
