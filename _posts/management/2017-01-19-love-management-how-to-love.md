@@ -6,16 +6,7 @@ categories: [Уроки Менеджмент]
 tags: [Love Management, Менеджмент]
 image:
 ---
-
-
-
-Про качества с 9m24s
-<div class="yt-video-container-1">
-    <iframe src="https://www.youtube.com/embed/l5NKmyaTr64?t=9m24s?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
-<br>
-
-Любовь это с 1m32s
+Про любовь с 1m32s
 <div class="yt-video-container-1">
     <iframe src="https://www.youtube.com/embed/QzHeev8B0kM?t=1m32s?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
