@@ -42,3 +42,8 @@ image:
 <div class="yt-video-container-1">
     <iframe src="https://www.youtube.com/embed/Pv_9JTQVOHs?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
+
+Лидерство без поводка (позитивное видео):
+<div class="yt-video-container-1">
+    <iframe src="https://www.youtube.com/embed/qpT_ywHvcNQ?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
