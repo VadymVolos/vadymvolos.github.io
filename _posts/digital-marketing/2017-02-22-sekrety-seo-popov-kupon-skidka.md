@@ -18,7 +18,7 @@ image: /images/posts/sekrety-seo-popov-kupon-skidka.jpg
 Видеокурс «Секреты практического SEO»  
 https://1popov.ru/disc170/
 
-Как активировать купон для скидки:
+Короткое видео как активировать купон для скидки:
 <div class="yt-video-container-1">
     <iframe src="https://www.youtube.com/embed/AqVM4B6EEcg?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
