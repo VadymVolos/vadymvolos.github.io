@@ -6,9 +6,14 @@ categories: [Уроки Интернет Маркетинг]
 tags: [SEO Marketing, Маркетинг]
 image: /images/posts/sekrety-seo-popov-kupon-skidka.jpg
 ---
-![_config.yml]({{ site.baseurl }}/images/posts/sekrety-seo-popov-kupon-skidka.jpg)
+Короткое видео как активировать купон для скидки:
+<div class="yt-video-container-1">
+    <iframe src="https://www.youtube.com/embed/AqVM4B6EEcg?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
-Купон для 20% скидки «Секреты практического SEO» видеокурс Евгения Попова  
+Привет ребята, для тех кто планировал купить видеккурс Евгения Попова «Секреты практического SEO», у меня купон, пользуйтесь:
+
+Купон для скидки «Секреты практического SEO» видеокурс Евгения Попова  
 
 Код купона: VAD_14AE  
 Скидка по купону: 20%  
@@ -18,7 +23,3 @@ image: /images/posts/sekrety-seo-popov-kupon-skidka.jpg
 Видеокурс «Секреты практического SEO»  
 https://1popov.ru/disc170/
 
-Короткое видео как активировать купон для скидки:
-<div class="yt-video-container-1">
-    <iframe src="https://www.youtube.com/embed/AqVM4B6EEcg?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
