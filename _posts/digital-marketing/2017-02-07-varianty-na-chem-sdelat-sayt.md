@@ -132,6 +132,7 @@ image: /images/posts/varianty-na-chem-sdelat-sayt.png
 		</p>
 		</div>
 	</li>
+<!--
 	<li class="accordion-li">
 		<a class="accordion-a">Dolor sit Amet</a>
 		<div class="accordion-content">
@@ -144,6 +145,7 @@ image: /images/posts/varianty-na-chem-sdelat-sayt.png
 		<p></p>
 		</div>
 	</li>
+-->
 
 </ul> <!-- / accordion -->
 
