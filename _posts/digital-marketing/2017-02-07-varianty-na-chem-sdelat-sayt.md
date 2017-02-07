@@ -62,12 +62,6 @@ image: /images/posts/varianty-na-chem-sdelat-sayt.png
 		</div>
 	</li>
 	<li class="accordion-li">
-	<a class="accordion-a">Dolor sit Amet</a>
-		<div class="accordion-content">
-		<p></p>
-		</div>
-	</li>
-	<li class="accordion-li">
 		<a class="accordion-a">В чем разница между wordpress.org и wordpress.com?</a>
 		<div class="accordion-content">
 		<p>
