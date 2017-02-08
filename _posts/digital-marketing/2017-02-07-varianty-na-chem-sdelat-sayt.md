@@ -126,6 +126,20 @@ image: /images/posts/varianty-na-chem-sdelat-sayt.png
 		</p>
 		</div>
 	</li>
+	<li class="accordion-li">
+		<a class="accordion-a">Какой хостинг порекомендуете для сайта на Вордпресс? </a>
+	<div class="accordion-content">	
+	<p>
+	Рекомендую вот эти трихостинга:
+	<ul>
+	<li>Макхост (Россия) - <a href="https://mchost.ru/services/virtual-hosting/?referer=1544751174" rel="nofollow" target="_blank">ссылка для регистрации</a></li>
+	<li>Хостинг Украина (Украина) - <a href="https://www.ukraine.com.ua/?page=14511" rel="nofollow" target="_blank">ссылка для регистрации</a></li>
+	<li>GoDaddy (США) - <a href="https://www.godaddy.com" rel="nofollow" target="_blank">ссылка для регистрации</a></li>
+	</ul>
+	</p>
+	
+	</div>
+	</li>
 <!--
 	<li class="accordion-li">
 		<a class="accordion-a">Dolor sit Amet</a>
