@@ -109,7 +109,7 @@ image: /images/posts/varianty-na-chem-sdelat-sayt.png
 		</div>
 	</li>
 	<li class="accordion-li">
-		<a class="accordion-a">В интернете можно найти платные темы и скачать их бесплатно, в чем причина?</a>
+		<a class="accordion-a">В интернете можно найти платные темы и скачать их бесплатно, почему?</a>
 		<div class="accordion-content">
 		<p>
 		    Да есть сайты которые размещают у себя ворованные темы и дают скачать тему бесплатно, или за какую-то маленькую плату.
