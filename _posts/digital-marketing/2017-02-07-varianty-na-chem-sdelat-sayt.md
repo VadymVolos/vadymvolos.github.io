@@ -14,9 +14,10 @@ image: /images/posts/varianty-na-chem-sdelat-sayt.png
 <ul>
     <li>WordPress CMS wordpress.org (движок для сайта бесплатный)</li>
     <li>MODX Revolution CMS (движок для сайта бесплатный)</li>
-    <li>Blogger (онлайн сервис для размещения сайта)</li>
+    <li>Blogger (онлайн сервис для размещения сайта бесплатный)</li>
     <li>GitHub Pages (онлайн сервис для размещения сайта)</li>
     <li>Лендинг (сайт без админки на html, css, js)</li>
+    <li>Tumblr (онлайн сервис для размещения сайта бесплатный)</li>
     <li>Самописные CMS (движки для сайта или магазина)</li>
     <li>Joomla CMS (движок, нужен хостинг и домен)</li>
     <li>Drupal CMS (движок, нужен хостинг и домен)</li>
