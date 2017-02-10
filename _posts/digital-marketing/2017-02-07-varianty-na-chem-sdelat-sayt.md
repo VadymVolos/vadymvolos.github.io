@@ -133,7 +133,8 @@ image: /images/posts/varianty-na-chem-sdelat-sayt.png
 		<a class="accordion-a">Какой хостинг порекомендуете для сайта на Вордпресс? </a>
 	<div class="accordion-content">	
 	<p>	
-	Рекомендую вот эти три хостинга:	
+	Рекомендую вот эти три хостинга:
+	</p>
 	<ul>
 	<li>Макхост (Россия) - <a href="https://mchost.ru/services/virtual-hosting/?referer=1544751174" rel="nofollow" target="_blank">ссылка для регистрации</a></li>
 	<li>Хостинг Украина (Украина) - <a href="https://www.ukraine.com.ua/?page=14511" rel="nofollow" target="_blank">ссылка для регистрации</a></li>
@@ -146,8 +147,6 @@ image: /images/posts/varianty-na-chem-sdelat-sayt.png
 <br><br>
 Для других стран самый популярный и проверенный хостинг GoDaddy.
 
-
-		</p>
 		</div>
 	</li>
 	
@@ -164,6 +163,19 @@ image: /images/posts/varianty-na-chem-sdelat-sayt.png
 		</p>
 		</div>
 	</li>
+	<li class="accordion-li">
+		<a class="accordion-a">Что WordPress или Лендинг?</a>
+		<div class="accordion-content">
+		youtu.be/RXqZbBr3p_4 <br><br>
+		Squeeze page - страница, как правило на один экран, с бесплатным вкусным предложением для сбора контактов. Предложение дать что то ценное взамен на контакты (емейли или телефон). Запись на мероприятие это тоже отностися к Squeeze page.
+		<br><br>
+		Landing page - целевая страница, лендинг пейдж, создана чтобы вывполнить одно действие
+		
+		Home page - главная страница вашего сайта, люди очень зайнаты чтобы читать на главной вы располагаете все ваши продукты и сервисы которые вы прредоставляете. Она предназначена чтоб ознакомит ьваших новых клиентов со всеми вашими продуктами и услугами, ознакомить с сферой вашей деятельности.		
+		
+		</div>
+	</li>
+	
 <!--
 	<li class="accordion-li">
 		<a class="accordion-a">Dolor sit Amet</a>
