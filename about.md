@@ -17,8 +17,7 @@ permalink: /about/
 Если хотите чтоб я написал пост на какую-то важную тему напишите об этом в комментариях, я почитаю, если шарю в этой теме, и у меня будет вдохновение и время, я обязателььно напишу.
 
 <!--
-
-<br>
+br>
 Категории и Теги:
 
 <a href="https://vadymvolos.github.io/blog/category/" target="_blank" rel="nofollow">vadymvolos.github.io/blog/category/</a> <br>
