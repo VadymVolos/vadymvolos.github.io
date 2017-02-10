@@ -201,3 +201,4 @@ image: /images/posts/varianty-na-chem-sdelat-sayt.png
 
 </ul> <!-- / accordion -->
 
+Автор всего текста я, Вадим Волос.
