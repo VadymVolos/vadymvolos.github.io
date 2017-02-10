@@ -164,7 +164,7 @@ image: /images/posts/varianty-na-chem-sdelat-sayt.png
 		</div>
 	</li>
 	<li class="accordion-li">
-		<a class="accordion-a">Что WordPress или Лендинг?</a>
+		<a class="accordion-a">Что выбрать WordPress или Лендинг?</a>
 		<div class="accordion-content">
 		<!-- youtu.be/RXqZbBr3p_4 -->
 		Squeeze page - страница, как правило на один экран, с бесплатным вкусным предложением для сбора контактов. Предложение дать что-то ценное взамен на контакты (емейли или телефон). Запись на мероприятие это тоже относится к Squeeze page, всплывающее окно с призывом подписаться тоже можно отнести к Squeeze page. Основная задача Squeeze page это взять у челоека контакт.
