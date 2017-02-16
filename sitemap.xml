@@ -49,7 +49,7 @@ sitemap:
       {% if page.sitemap.priority %}
         <priority>{{ page.sitemap.priority }}</priority>
       {% else %}
-        <priority>0.1</priority>
+        <priority>0.4</priority>
       {% endif %}
     </url>
     {% endunless %}
