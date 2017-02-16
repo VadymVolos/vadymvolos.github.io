@@ -1,5 +1,6 @@
 ---
-  exclude: 'yes'
+sitemap:
+exclude: 'yes'
 ---
 
 >
