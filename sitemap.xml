@@ -22,8 +22,8 @@ sitemap:
   {% if page.sitemap != null and page.sitemap != empty %}
   <url>
     <loc>{{ site.url }}{{ page.url }}</loc>
-    <changefreq>![_sitemap.xml]{{ page.sitemap.changefreq }}</changefreq>
-    <priority>{{ page.sitemap.priority }} v3</priority>
+    <changefreq>{{ page.sitemap.changefreq }}</changefreq>
+    <priority>{{ page.sitemap.priority }}</priority>
   </url>
   {% endif %}
   {% endfor %}
