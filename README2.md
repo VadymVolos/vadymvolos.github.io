@@ -1,6 +1,6 @@
 ---
 sitemap:
-  exclude: no
+  exclude: yes
 ---
 
 >
