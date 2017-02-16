@@ -1,3 +1,9 @@
+sitemap:
+  lastmod: 2014-01-23
+  priority: 0.7
+  changefreq: 'monthly'
+  exclude: 'yes'
+
 >
 Установленная тема называется "Jekyll Now": https://github.com/barryclark/jekyll-now  
 Демо: http://www.jekyllnow.com/  
