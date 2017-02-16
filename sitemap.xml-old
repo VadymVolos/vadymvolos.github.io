@@ -28,3 +28,11 @@ sitemap:
   {% endif %}
   {% endfor %}
 </urlset>
+
+<!-- 
+Гугл вебмастер говорит что между тегами changefreq нет значения, 
+если посмотреть сгенерированный сайтмап то там есть значения, но внизу добавлены последние строки
+<loc>https://vadymvolos.github.io/feed.xml</loc>
+<loc>https://vadymvolos.github.io/feed.xslt.xml</loc>
+в этих стрках нет значения changefreq, почему сайтмап выводит эти строки я не нашел
+-->
