@@ -71,6 +71,6 @@ image:
 		Основы Интернет-маркетинга (2 недели 4 урока) - чтоб найти курс нужно там перейти на вкладку бесплатные и среди курсов найти курс Основы Интернет-маркетинга
 	    </a></li>
 	    	<li><a rel="nofollow" target="_blank" href="https://digitalworkshop-ua.withgoogle.com/topic-library" onclick="ga('send', 'event', 'outbound', 'click', 'https://digitalworkshop-ua.withgoogle.com/topic-library');" class="hvr-wobble-vertical">
-		Видеокурсы по интернет маркетингу от Гугл (язык украинский)
+		Видеокурсы по интернет маркетингу от Гугл (язык украинский, есть английский, русского нет)
 	    </a></li>
 </ul>
