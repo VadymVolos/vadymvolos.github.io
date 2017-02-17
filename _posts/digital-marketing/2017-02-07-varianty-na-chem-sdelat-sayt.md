@@ -6,7 +6,8 @@ categories: [Уроки Интернет Маркетинг]
 tags: [Сайт, Маркетинг]
 image: /images/posts/varianty-na-chem-sdelat-sayt.png
 ---
-![Приветl]({{ site.baseurl }}/images/posts/varianty-na-chem-sdelat-sayt.png "Варианты на чем сделать сайт")  
+![Варианты на чем сделать сайт]({{ site.baseurl }}/images/posts/varianty-na-chem-sdelat-sayt.png "Варианты на чем сделать сайт")
+<img src="{{ site.baseurl }}/images/posts/varianty-na-chem-sdelat-sayt.png" alt="Варианты на чем сделать сайт" title="Пост со списком вариантов для создания сайта">
 
 
 Новички которым понадобился сайт часто не знают где, на чем, на какой платформе, на каком сервисе сделать сайт. Поэтому в этому посте напишу список самых популярных вариантов для создания сайта. И также под списком отвечу на частые вопросы которые точно знаю есть у новичков.
