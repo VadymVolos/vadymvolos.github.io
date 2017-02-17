@@ -6,7 +6,6 @@ categories: [Уроки Интернет Маркетинг]
 tags: [Сайт, Маркетинг]
 image: /images/posts/varianty-na-chem-sdelat-sayt.png
 ---
-![Варианты на чем сделать сайт]({{ site.baseurl }}/images/posts/varianty-na-chem-sdelat-sayt.png "Варианты на чем сделать сайт")
 <img src="{{ site.baseurl }}/images/posts/varianty-na-chem-sdelat-sayt.png" alt="Варианты на чем сделать сайт" title="Пост со списком вариантов для создания сайта">
 
 
