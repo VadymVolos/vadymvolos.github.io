@@ -8,6 +8,8 @@ image: /images/posts/varianty-na-chem-sdelat-sayt.png
 ---
 ![_config.yml]({{ site.baseurl }}/images/posts/varianty-na-chem-sdelat-sayt.png)  
 [[https://vadymvolos.github.io/images/posts/varianty-na-chem-sdelat-sayt.png|alt=Варианты на чем сделать сайт]]
+[[https://github.com/VadymVolos/vadymvolos.github.io/tree/master/images/posts/varianty-na-chem-sdelat-sayt.png|alt=octocat]]
+
 
 Новички которым понадобился сайт часто не знают где, на чем, на какой платформе, на каком сервисе сделать сайт. Поэтому в этому посте напишу список самых популярных вариантов для создания сайта. И также под списком отвечу на частые вопросы которые точно знаю есть у новичков.
 
