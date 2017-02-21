@@ -33,10 +33,13 @@ Two-factor authentication (2FA), 2-Step verification - двухфакторна�
 
 Просто пример окна входа:
 <form name="f1" method="get" action=" ">
-Ваш емейл: <br /><input name="login" type="text" size="25" maxlength="30" value="" /> <br />
-Ваш пароль: <br /><input name="pd" type="password" size="25" maxlength="30" value="" /> <br />
-Ваш код с приложения Google Authenticator: <br /><input name="pd" type="text" size="25" maxlength="30" value="" /> <br />
-<input type="submit" name="enter" value="Вход" />
+Ваш емейл: <br />
+<input name="login" type="text" size="25" maxlength="30" value="" disabled/> <br />
+Ваш пароль: <br />
+<input name="pd" type="password" size="25" maxlength="30" value="" disabled/> <br />
+Ваш код с приложения Google Authenticator: <br />
+<input name="pd" type="text" size="25" maxlength="30" value="" disabled/> <br />
+<input type="submit" name="enter" value="Вход" disabled/>
 </form>
 
 
