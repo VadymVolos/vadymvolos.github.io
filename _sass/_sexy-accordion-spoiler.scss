@@ -21,6 +21,8 @@
   font: 18px/1.9 Roboto;
   margin: 0;
   padding: 8px 0;
+  /* text-indent: 24px; на мобильном не красиво */
+  padding-left: 24px;
 }
 
 .accordion {
