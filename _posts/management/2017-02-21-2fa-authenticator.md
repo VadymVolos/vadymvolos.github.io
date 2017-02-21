@@ -36,6 +36,16 @@ Two-factor authentication (2FA), 2-Step verification - двухфакторна�
 Ваш код с приложения Google Authenticator ...........   
 (если отключен Google Authenticator включите хотя бы вход с sms защитой).  
 
+<form name="f1" method="get" action="enter_data.php">
+<input name="link" type="hidden" value="index.php" />
+Логин: <br />
+<input name="login" type="text" size="25" maxlength="30" value="Вася" /> <br />
+Пароль: <br />
+<input name="pd" type="password" size="25" maxlength="30" value="" /> <br />
+<input name="remember" type="checkbox" value="yes" /> Запомнить <br />
+<input type="submit" name="enter" value="Вход" />
+</form>
+
 
 <h2>Почему приложение для смартфона лучше нежели приложение для ПК?</h2>
 
