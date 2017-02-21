@@ -21,8 +21,6 @@
   font: 18px/1.9 Roboto;
   margin: 0;
   padding: 8px 0;
-  /* text-indent: 24px; на мобильном не красиво */
-  padding-left: 24px;
 }
 
 .accordion {
@@ -81,6 +79,6 @@ body .accordion .accordion-content .yt-video-container-1 {
 
 @media screen and (max-width: 640px) {
   .accordion {margin-left: -10px; margin-right: -10px;}
-  .accordion .accordion-a {padding-right: 10px;padding-left: 10px;text-indent: 0px;}
+  .accordion .accordion-a {text-indent: 0px; line-height: 1.7; padding: 5px 10px;}
   .accordion-a h1, .accordion-a h2, .accordion-a h3, .accordion-a h4, .accordion-a h5, .accordion-a h6 {padding-left: 18px;}
 }
