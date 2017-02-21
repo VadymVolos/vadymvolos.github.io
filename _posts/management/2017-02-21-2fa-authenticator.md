@@ -56,7 +56,7 @@ Google Authenticator - официальное приложение от Гугл
 	<li class="accordion-li">
 		<a class="accordion-a"><h2>Почему Google Authenticator лучше чем код в sms?</h2></a>
 		<div class="accordion-content">
-		Позже добавлю текст.
+		Данные хранятся локально и не передаются со стороны сайта, значит их нельзя перехватить, и значит это более надежно.
 		</div>
 	</li>	
 	<li class="accordion-li">
