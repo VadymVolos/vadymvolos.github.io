@@ -15,10 +15,13 @@
 
 .accordion-a h1, .accordion-a h2, .accordion-a h3, .accordion-a h4, .accordion-a h5, .accordion-a h6 { /* заголовки спойлера должны быть в теге h2, h3 для SEO, но нужно стили обнулить, шрифт уменшить и жирность */
   line-height: 2.7;
+  text-indent: 24px;
   color: #555555;
   font-weight: normal;
   font-size: 100%;
   font: 18px/1.9 Roboto;
+  margin: 0;
+  padding: 8px 0;
 }
 
 .accordion {
