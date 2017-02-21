@@ -8,7 +8,7 @@ image: /images/posts/varianty-na-chem-sdelat-sayt.png
 ---
 <img src="{{ site.baseurl }}/images/posts/varianty-na-chem-sdelat-sayt.png" alt="Двухфакторная аутентификация, Google Authenticator, Authy" title="Пост про детали ка кпользоваться Google Authenticator и Authy ">
 
-Ниже в статье буду рассматривать все детали двухфакторной аутентификации с помощью приложения Google Authenticator и его аналогов. SMS и все остальные виды аутентификации на странице рассматриваться не будут.
+Ниже в статье буду рассматривать все детали двухфакторной аутентификации с помощью приложения Google Authenticator и его аналогов. SMS и все остальные виды аутентификации в этой статье рассматриваться не будут.
 
 Two-factor authentication (2FA), 2-Step verification - двухфакторная аутентификация, двухэтапная аутентификация, двоэтапная проверка.
 
