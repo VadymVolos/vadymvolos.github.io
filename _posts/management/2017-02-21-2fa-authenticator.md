@@ -62,7 +62,7 @@ Google Authenticator - официальное приложение от Гугл
 
 
 <!-- accordion -->
-<ul>
+<ul class="accordion">
 	<li class="accordion-li">
 		<a class="accordion-a"><h2>Почему Google Authenticator лучше чем код в sms?</h2></a>
 		<div class="accordion-content">
