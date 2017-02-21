@@ -4,9 +4,9 @@ title: Safety Management - двухфакторная аутентификаци
 description: Безопасность онлайн, все детали про Google Authenticator, Authy, и другие аналоги.
 categories: [Уроки Менеджмент]
 tags: [Безопасность онлайн, Safety Management Online, Маркетинг]
-image: /images/posts/varianty-na-chem-sdelat-sayt.png
+image: /images/posts/google-authenticator-and-authy.png
 ---
-<img src="{{ site.baseurl }}/images/posts/varianty-na-chem-sdelat-sayt.png" alt="Двухфакторная аутентификация, Google Authenticator, Authy" title="Пост про то как пользоваться Google Authenticator, Authy и другими">
+<img src="{{ site.baseurl }}/images/posts/google-authenticator-and-authy.png" alt="Двухфакторная аутентификация, Google Authenticator, Authy" title="Пост про то как пользоваться Google Authenticator, Authy и другими">
 
 Ниже в статье буду рассматривать все детали двухфакторной аутентификации с помощью приложения Google Authenticator и его аналогов. SMS и все остальные виды аутентификации в этой статье рассматриваться не будут.
 
