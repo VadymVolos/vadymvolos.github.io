@@ -65,8 +65,33 @@ Google Authenticator - официальное приложение от Гугл
 
 
 
-<h2>Почему Google Authenticator лучше чем код в sms ?</h2>
-
 <h2>Приложения для двухэтапной аутентификации (для ПК)</h2>
 
 <h2>Приложения для двухэтапной аутентификации (для смартфонов)</h2>
+
+<!-- accordion -->
+<ul>
+	<li class="accordion-li">
+		<a class="accordion-a"><h2>Почему Google Authenticator лучше чем код в sms?</h2></a>
+		<div class="accordion-content">
+		Позже добавлю текст.
+		</div>
+	</li>
+  
+
+<!--
+	<li class="accordion-li">
+		<a class="accordion-a">Dolor sit Amet</a>
+		<div class="accordion-content">
+		<p></p>
+		</div>
+	</li>
+	<li class="accordion-li">
+		<a class="accordion-a">Dolor sit Amet</a>
+		<div class="accordion-content">
+		<p></p>
+		</div>
+	</li>
+-->
+
+</ul> <!-- / accordion -->
