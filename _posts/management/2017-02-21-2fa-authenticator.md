@@ -34,11 +34,11 @@ Two-factor authentication (2FA), 2-Step verification - двухфакторна�
 Просто пример окна входа:
 <form name="f1" method="get" action=" ">
 Ваш емейл: <br />
-<input name="login" type="text" size="25" maxlength="30" value="" disabled/> <br />
+<input name="login" type="text" size="50" maxlength="30" value="" disabled/> <br />
 Ваш пароль: <br />
-<input name="pd" type="password" size="25" maxlength="30" value="" disabled/> <br />
+<input name="pd" type="password" size="50" maxlength="30" value="" disabled/> <br />
 Ваш код с приложения Google Authenticator: <br />
-<input name="pd" type="text" size="25" maxlength="30" value="" disabled/> <br />
+<input name="pd" type="text" size="50" maxlength="30" value="" disabled/> <br />
 <input type="submit" name="enter" value="Вход" disabled/>
 </form>
 
@@ -61,14 +61,22 @@ Google Authenticator - официальное приложение от Гугл
 
 
 
-<h2>Приложения для двухэтапной аутентификации (для ПК)</h2>
-
-<h2>Приложения для двухэтапной аутентификации (для смартфонов)</h2>
-
 <!-- accordion -->
 <ul>
 	<li class="accordion-li">
 		<a class="accordion-a"><h2>Почему Google Authenticator лучше чем код в sms?</h2></a>
+		<div class="accordion-content">
+		Позже добавлю текст.
+		</div>
+	</li>	
+	<li class="accordion-li">
+		<a class="accordion-a"><h2>Приложения для двухэтапной аутентификации (для ПК)</h2></a>
+		<div class="accordion-content">
+		Позже добавлю текст.
+		</div>
+	</li>
+	<li class="accordion-li">
+		<a class="accordion-a"><h2>Приложения для двухэтапной аутентификации (для смартфонов)</h2></a>
 		<div class="accordion-content">
 		Позже добавлю текст.
 		</div>
