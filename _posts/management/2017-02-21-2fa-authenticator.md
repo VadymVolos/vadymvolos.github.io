@@ -6,7 +6,7 @@ categories: [Уроки Менеджмент]
 tags: [Безопасность онлайн, Safety Management Online, Маркетинг]
 image: /images/posts/varianty-na-chem-sdelat-sayt.png
 ---
-<img src="{{ site.baseurl }}/images/posts/varianty-na-chem-sdelat-sayt.png" alt="Двухфакторная аутентификация, Google Authenticator, Authy" title="Пост про детали ка кпользоваться Google Authenticator и Authy ">
+<img src="{{ site.baseurl }}/images/posts/varianty-na-chem-sdelat-sayt.png" alt="Двухфакторная аутентификация, Google Authenticator, Authy" title="Пост про то как пользоваться Google Authenticator, Authy и другими">
 
 Ниже в статье буду рассматривать все детали двухфакторной аутентификации с помощью приложения Google Authenticator и его аналогов. SMS и все остальные виды аутентификации в этой статье рассматриваться не будут.
 
