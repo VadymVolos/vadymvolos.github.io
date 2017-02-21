@@ -43,6 +43,7 @@
   font-size: 17px; /* на всем сайте 18px, внутри аккордиона сделал чуть меньше чтоб было симпатичнее. */
   line-height: 1.6em;
 }
+.accordion-content p {margin: 15px 0 15px 0;}
 body .accordion .accordion-content .yt-video-container-1 {
     padding-bottom: 51.73%; /* блок видео в аккордионе чуть меньше, поэтому подогнал по высоте */
 }
