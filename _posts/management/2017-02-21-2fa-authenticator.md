@@ -33,8 +33,21 @@ image: /images/posts/google-authenticator-and-authy.png
 
 <!-- accordion -->
 <ul class="accordion">
+
 	<li class="accordion-li">
-			<a class="accordion-a"><h2>Почему приложение для смартфона лучше нежели приложение для ПК?</h2></a>
+		<a class="accordion-a">Как настроить Google Authenticator?</a>
+		<div class="accordion-content">
+		<p>
+		Я не буду постить картинки, потому что на разных сайтах в разном месте кнопка для включения Google Authenticator, я расскажу смысл.
+		</p><p>
+		Смысл в том чт оесли сайт важный, и вы решили включит ьзащиту не с помощью sms а с помощью Google Authenticator, то вам нужн опосмотрет ьподдерживает ли этот сайт Google Authenticator. Если да, то там обязательн оест ьинструкция с картинками как его подключить. Также посмотрите в инструкции что делат ьесли телефон утерян, это полезно узнать перед подключением.
+		</p>
+		
+		
+		</div>
+	</li>
+	<li class="accordion-li">
+		<a class="accordion-a"><h2>Почему приложение для смартфона лучше нежели приложение для ПК?</h2></a>
 		<div class="accordion-content">
 <p>
 Приложений 2FA для ПК не много, а вот приложений для смартфонов очень много. 
@@ -73,7 +86,7 @@ Google Authenticator - официальное приложение от Гугл
 </p>
 		</div>
 	</li>
-	<li class="accordion-li">
+	<li class="accordion-li">	
 		<a class="accordion-a"><h2>Приложения для двухэтапной аутентификации (для смартфонов)</h2></a>
 		<div class="accordion-content">
 		Позже добавлю текст.
