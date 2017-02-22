@@ -35,7 +35,7 @@ image: /images/posts/google-authenticator-and-authy.png
 <ul class="accordion">
 
 	<li class="accordion-li">
-		<a class="accordion-a">Как настроить Google Authenticator?</a>
+		<a class="accordion-a"><h2>Как настроить Google Authenticator?</h2></a>
 		<div class="accordion-content">
 		<p>
 		Я не буду постить картинки, потому что на разных сайтах в разном месте кнопка для включения Google Authenticator, я расскажу смысл.
@@ -114,13 +114,13 @@ Google Authenticator - официальное приложение от Гугл
 
 <!--
 	<li class="accordion-li">
-		<a class="accordion-a">Dolor sit Amet</a>
+		<a class="accordion-a"><h2>Dolor sit Amet</h2></a>
 		<div class="accordion-content">
 		<p></p>
 		</div>
 	</li>
 	<li class="accordion-li">
-		<a class="accordion-a">Dolor sit Amet</a>
+		<a class="accordion-a"><h2>Dolor sit Amet</h2></a>
 		<div class="accordion-content">
 		<p></p>
 		</div>
