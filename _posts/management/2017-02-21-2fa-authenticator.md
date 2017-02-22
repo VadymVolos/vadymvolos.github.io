@@ -91,7 +91,19 @@ image: /images/posts/google-authenticator-and-authy.png
 	<li class="accordion-li">
 		<a class="accordion-a"><h2>Какие есть приложения двухэтапной аутентификации для смартфонов</h2></a>
 		<div class="accordion-content">
-		Позже добавлю текст.
+       		<p>
+		Для смартонов приложения много, ссылки давать не будут так как все приложения находятся в магазинах (Google Play, App Store, Windows Store) и их можно там легко найти вписав название в поиск.
+		</p>
+		<ul>
+		<li>Google Authenticator (Генератор кодов Google)</li>
+		<li>Microsoft Authenticator (доступен для Андроида, Эпл, и Вин)</li>
+		<li>LastPass Authenticator</li>
+		<li>Authy 2-Factor Authentication</li>
+		<li>Яндекс.Ключ</li>
+		<li>SAASPASS | Authenticator 2FA (идея интересная но зависает на телефоне)</li>
+		<li>MyDigipass Authenticator (не проверял не знаю)</li>
+		<li>Authlogics Authenticator (не проверял не знаю)</li>
+		</ul>
 		</div>
 	</li>
 	<li class="accordion-li">
