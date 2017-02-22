@@ -33,7 +33,6 @@ image: /images/posts/google-authenticator-and-authy.png
 
 <!-- accordion -->
 <ul class="accordion">
-
 	<li class="accordion-li">
 		<a class="accordion-a"><h2>Как настроить Google Authenticator?</h2></a>
 		<div class="accordion-content">
@@ -113,7 +112,6 @@ image: /images/posts/google-authenticator-and-authy.png
 		</div>
 	</li>
 
-
 <!--
 	<li class="accordion-li">
 		<a class="accordion-a"><h2>Dolor sit Amet</h2></a>
@@ -129,5 +127,4 @@ image: /images/posts/google-authenticator-and-authy.png
 	</li>
 -->  
 
-</ul>  
-<!-- / accordion -->
+</ul><!-- / accordion -->  
