@@ -127,6 +127,7 @@ image: /images/posts/google-authenticator-and-authy.png
 		<p></p>
 		</div>
 	</li>
--->
+-->  
 
-</ul> <!-- / accordion -->
+</ul>  
+<!-- / accordion -->
