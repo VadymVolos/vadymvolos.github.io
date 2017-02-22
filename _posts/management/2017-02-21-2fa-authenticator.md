@@ -100,9 +100,10 @@ image: /images/posts/google-authenticator-and-authy.png
 		<li>LastPass Authenticator</li>
 		<li>Authy 2-Factor Authentication</li>
 		<li>Яндекс.Ключ</li>
-		<li>SAASPASS | Authenticator 2FA (идея интересная но зависает на телефоне)</li>
+		<li>SAASPASS | Authenticator 2FA (идея интересная но бывает подвисает на телефоне)</li>
 		<li>MyDigipass Authenticator (не проверял не знаю)</li>
 		<li>Authlogics Authenticator (не проверял не знаю)</li>
+		<li>И еще много других...</li>
 		</ul>
 		</div>
 	</li>
