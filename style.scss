@@ -335,7 +335,7 @@ footer {
     margin-top: 0.15em;
 }
 .footer-line1, .footer-line2, .footer-line3 {display: flex;}
-@media screen and (max-width: 640px) {.footer-line1, .footer-line2, .footer-line3 {display: none;}}
+@media screen and (max-width: 640px) {.footer-line3 {display: none;}}
 .footer-line1 {margin-bottom: -12px;}
 .footer-line2 {margin-bottom: 8px;}
 .footer-social { 
