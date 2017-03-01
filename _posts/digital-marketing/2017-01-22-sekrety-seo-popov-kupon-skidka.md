@@ -23,3 +23,5 @@ image: /images/posts/sekrety-seo-popov-kupon-skidka.jpg
 Видеокурс «Секреты практического SEO»  
 https://1popov.ru/disc170/
 
+Этот купон также дествует действует на другие курсы и продукты Евгения Попова.
+
