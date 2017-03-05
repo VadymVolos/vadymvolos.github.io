@@ -30,7 +30,7 @@ image: /images/posts/varianty-na-chem-sdelat-sayt.png
     <li>Вайбер канал (группа, страница)</li>
     <li>Телеграм канал (группа, страница)</li>
     <li>Онлайн сервисы-конструкторы сайтов</li>
-    <li>OpenCart CMS (движок для магазина бесплатный, ocStore, OPENCART.CRM, OPENCART.PRO)</li>
+    <li>OpenCart CMS (движок для магазина бесплатный. Есть чуть допиленные версии: ocStore, OPENCART.CRM, OPENCART.PRO)</li>
     <li>WordPress WooCommerce (плагин для создания магазина на движке WordPress)</li>
     <li>wordpress.com (онлайн сервис для размещения сайта)</li>
     <li>weebly.com (онлайн сервис для размещения сайта)</li>
