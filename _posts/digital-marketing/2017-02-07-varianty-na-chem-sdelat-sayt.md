@@ -204,9 +204,8 @@ image: /images/posts/varianty-na-chem-sdelat-sayt.png
 		<div class="accordion-content">
 		<p>
 		 OpenCart (www.opencart.com) - это оригинальный движок.
-		 <br>
-		 ocStore, OPENCART.CRM, OPENCART.PRO - это тот же OpenCart но с добавлеными модулями и исправлениями. cStore и OPENCART.CRM - бесплатные. OPENCART.PRO - стоит вроде 1000 руб для одного домена. Все модули и дополнения которые есть в ocStore, OPENCART.CRM, OPENCART.PRO можно найти на форуме опенкарта, и установить самостоятельно, протос ребята поработали и добавили эти все доработки в одном месте.
-
+		 <br><br>
+		 ocStore, OPENCART.CRM, OPENCART.PRO - это тот же OpenCart но с добавлеными модулями и исправлениями. cStore и OPENCART.CRM - бесплатные. OPENCART.PRO - стоит вроде 1000 руб для одного домена. Все модули и дополнения которые есть в ocStore, OPENCART.CRM, OPENCART.PRO можно найти на форуме опенкарта и установить самостоятельно, проcто ребята поработали и добавили эти все доработки в одном месте.
 		</p>
 		</div>
 	</li>
