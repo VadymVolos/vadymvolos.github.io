@@ -30,7 +30,7 @@ image: /images/posts/varianty-na-chem-sdelat-sayt.png
     <li>Вайбер канал (группа, страница)</li>
     <li>Телеграм канал (группа, страница)</li>
     <li>Онлайн сервисы-конструкторы сайтов</li>
-    <li>OpenCart CMS (движок для магазина бесплатный)</li>
+    <li>OpenCart CMS (движок для магазина бесплатный, ocStore, OPENCART.CRM, OPENCART.PRO)</li>
     <li>WordPress WooCommerce (плагин для создания магазина на движке WordPress)</li>
     <li>wordpress.com (онлайн сервис для размещения сайта)</li>
     <li>weebly.com (онлайн сервис для размещения сайта)</li>
@@ -196,6 +196,18 @@ image: /images/posts/varianty-na-chem-sdelat-sayt.png
 		<br><br>
 		Цена сертификата в год, мождет быть от 5 usd и до 5000 usd, зависит от репутации компании в которой вы преобретаете. В среднем цена 12 usd за год. Но если вы банк, или платежная система, то для большего доверия и надежности вам нужно обратить внимание на более дорогие сертификаты известных брендов. Там есть дополнительные опции, и дополнительная проверка вас перед выдачей, чтоб проверить вас на соответвие.
 		
+		</div>
+	</li>
+	
+		<li class="accordion-li">
+		<a class="accordion-a">В чем отличия OpenCart, ocStore, OPENCART.CRM, OPENCART.PRO?</a>
+		<div class="accordion-content">
+		<p>
+		 OpenCart (www.opencart.com) - это оригинальный движок.
+		 <br>
+		 ocStore, OPENCART.CRM, OPENCART.PRO - это тот же OpenCart но с добавлеными модулями и исправлениями. cStore и OPENCART.CRM - бесплатные. OPENCART.PRO - стоит вроде 1000 руб для одного домена. Все модули и дополнения которые есть в ocStore, OPENCART.CRM, OPENCART.PRO можно найти на форуме опенкарта, и установить самостоятельно, протос ребята поработали и добавили эти все доработки в одном месте.
+
+		</p>
 		</div>
 	</li>
 	
