@@ -221,7 +221,7 @@ image: /images/posts/varianty-na-chem-sdelat-sayt.png
 		
 		Уроки создание интернет-магазин на Opencart (плейлист уроков):
 		<div class="yt-video-container-1">
-  		  <iframe src="https://www.youtube.com/playlist?list=PLvsqnIbx2t5Ap0PsQP2d76cwqU2Gjb77D" frameborder="0" allowfullscreen></iframe>
+  		  <iframe src="https://www.youtube.com/embed/videoseries?list=PLvsqnIbx2t5Ap0PsQP2d76cwqU2Gjb77D" frameborder="0" allowfullscreen></iframe>
 		</div>
 		
 		</div>
