@@ -203,20 +203,25 @@ image: /images/posts/varianty-na-chem-sdelat-sayt.png
 		<a class="accordion-a">В чем отличия OpenCart, ocStore, OPENCART.CRM, OPENCART.PRO?</a>
 		<div class="accordion-content">
 		<p>
-		OpenCart (www.opencart.com) - это оригинальный движок.
+		<b>OpenCart (www.opencart.com)</b> - это оригинальный движок.
 		<br><br>
-		ocStore, OPENCART.CRM, OPENCART.PRO - это тот же OpenCart но с добавлеными модулями и исправлениями. 
+		<b>ocStore, OPENCART.CRM, OPENCART.PRO</b> - это тот же OpenCart но с добавлеными модулями и исправлениями. 
 		<br><br>
-		cStore и OPENCART.CRM - бесплатные. OPENCART.PRO - стоит вроде 1000 руб для одного домена. Все модули и дополнения которые есть в ocStore, OPENCART.CRM, OPENCART.PRO можно найти на форуме опенкарта и установить самостоятельно, проcто ребята поработали и добавили эти все доработки в одном месте.		
+		ocStore и OPENCART.CRM - бесплатные. OPENCART.PRO - стоит вроде 1000 руб для одного домена. Все модули и дополнения которые есть в ocStore, OPENCART.CRM, OPENCART.PRO можно найти на форуме опенкарта и установить самостоятельно, проcто ребята поработали и добавили эти все доработки в одном месте.		
 		</p>
 		Отличия между OpenCart и ocStore:
 		<div class="yt-video-container-1">
   		  <iframe src="https://www.youtube.com/embed/7IsLUmPwMO4?rel=0" frameborder="0" allowfullscreen></iframe>
 		</div>
 		
-		Уроки создание интернет-магазин на Opencart.:
+		Уроки создание интернет-магазин на ocStore Opencart:
 		<div class="yt-video-container-1">
   		  <iframe src="https://www.youtube.com/embed/videoseries?list=PL41__TOyn1t3_n9LJabTN-y4_Oqh3nDtj" frameborder="0" allowfullscreen></iframe>
+		</div>
+		
+		Уроки создание интернет-магазин на Opencart:
+		<div class="yt-video-container-1">
+  		  <iframe src="https://www.youtube.com/playlist?list=PLvsqnIbx2t5Ap0PsQP2d76cwqU2Gjb77D" frameborder="0" allowfullscreen></iframe>
 		</div>
 		
 		</div>
