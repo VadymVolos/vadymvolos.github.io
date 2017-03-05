@@ -214,12 +214,12 @@ image: /images/posts/varianty-na-chem-sdelat-sayt.png
   		  <iframe src="https://www.youtube.com/embed/7IsLUmPwMO4?rel=0" frameborder="0" allowfullscreen></iframe>
 		</div>
 		
-		Уроки по созданию интернет-магазина на ocStore Opencart (плейлист уроков):
+		Уроки по установке интернет-магазина на ocStore Opencart (плейлист уроков):
 		<div class="yt-video-container-1">
   		  <iframe src="https://www.youtube.com/embed/videoseries?list=PL41__TOyn1t3_n9LJabTN-y4_Oqh3nDtj" frameborder="0" allowfullscreen></iframe>
 		</div>
 		
-		Уроки по созданию интернет-магазина на Opencart (плейлист уроков):
+		Уроки по установке и настройке интернет-магазина на Opencart (плейлист уроков):
 		<div class="yt-video-container-1">
   		  <iframe src="https://www.youtube.com/embed/videoseries?list=PLvsqnIbx2t5Ap0PsQP2d76cwqU2Gjb77D" frameborder="0" allowfullscreen></iframe>
 		</div>
