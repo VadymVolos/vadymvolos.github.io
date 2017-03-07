@@ -58,10 +58,10 @@ image: /images/posts/сontent-strategy-kak-raskrutit-svoy-sayt-i-youtube-kanal.p
 		<a class="accordion-a"><h3>Сервисы для создания контент стратегии:</h3></a>
 		<div class="accordion-content">
       <ul>
-      <li>Wordstat Yandex (https://wordstat.yandex.com)</li>
-      <li>Google AdWords Keyword Planner "Планировщик ключевых слов" (https://adwords.google.com/KeywordPlanner)</li>
-      <li>Keyword Tool (http://keywordtool.io)</li>
-      <li>Google Тренды (https://trends.google.com)</li>
+      <li><a rel="nofollow" target="_blank" class="hvr-wobble-vertical" href="https://wordstat.yandex.com" onclick="ga('send', 'event', 'outbound', 'click', 'https://wordstat.yandex.com');">Wordstat Yandex</a></li>
+      <li><a rel="nofollow" target="_blank" class="hvr-wobble-vertical" href="https://adwords.google.com/KeywordPlanner" onclick="ga('send', 'event', 'outbound', 'click', 'https://adwords.google.com/KeywordPlanner');">Google AdWords Keyword Planner "Планировщик ключевых слов"</a></li>
+      <li><a rel="nofollow" target="_blank" class="hvr-wobble-vertical" href="http://keywordtool.io" onclick="ga('send', 'event', 'outbound', 'click', 'http://keywordtool.io');">Keyword Tool</a></li>
+      <li><a rel="nofollow" target="_blank" class="hvr-wobble-vertical" href="https://trends.google.com" onclick="ga('send', 'event', 'outbound', 'click', 'https://trends.google.com');">Google Тренды</a></li>
       </ul>
 <p>
 С помощью этих сервисов можно просмотреть количество запросов в месяц по нужной вам теме, а также смежные запросы и похожие варианты. Просматривать вы можете по всему миру, а можете выбрать конкретную страну и город. Это очень круто, когда вы можете узнать количество запросов в месяц по конкретной фразе в конкретном городе. Нужно использовать и Wordstat Yandex и Google AdWords Keyword Planner, потму что часть людей пользуется поиском от Яндекса и часть поиском от Гугл, в итоге вы сможете понять общую картину сколько запросов было в Яндексе и сколько в Гугл. Обратите внимание что бывает угасание интереса по каким-то запросам, также бывает сезонность - например когда запрос вводят раз в четыре года или каждую зиму.
