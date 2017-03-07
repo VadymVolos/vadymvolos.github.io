@@ -55,7 +55,7 @@ image: /images/posts/сontent-strategy-kak-raskrutit-svoy-sayt-i-youtube-kanal.p
 
 <ul class="accordion">
 	<li class="accordion-li">
-		<a class="accordion-a"><h3>Сервисы для создания контент стратегии:</h3></a>
+		<a class="accordion-a"><h3>Сервисы для создания контент стратегии</h3></a>
 		<div class="accordion-content">
       <ul>
       <li><a rel="nofollow" target="_blank" class="hvr-wobble-vertical" href="https://wordstat.yandex.com" onclick="ga('send', 'event', 'outbound', 'click', 'https://wordstat.yandex.com');">Wordstat Yandex</a></li>
