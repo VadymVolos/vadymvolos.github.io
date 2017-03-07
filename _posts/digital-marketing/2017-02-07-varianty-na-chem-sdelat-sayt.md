@@ -203,10 +203,10 @@ image: /images/posts/varianty-na-chem-sdelat-sayt.png
 		<a class="accordion-a">В чем отличия OpenCart, ocStore, OPENCART.CRM, OPENCART.PRO?</a>
 		<div class="accordion-content">
 		<p>
-		<b>OpenCart (www.opencart.com)</b> - это оригинальный движок.
-		<br><br>
-		<b>ocStore, OPENCART.CRM, OPENCART.PRO</b> - это тот же OpenCart но с добавлеными модулями и исправлениями. 
-		<br><br>
+		OpenCart (www.opencart.com) - это оригинальный движок.
+		</p><p>
+		ocStore, OPENCART.CRM, OPENCART.PRO - это тот же OpenCart но с добавлеными модулями и исправлениями. 
+		</p><p>
 		ocStore и OPENCART.CRM - бесплатные. OPENCART.PRO - стоит вроде 1000 руб для одного домена. Все модули и дополнения которые есть в ocStore, OPENCART.CRM, OPENCART.PRO можно найти на форуме опенкарта и установить самостоятельно, проcто ребята поработали и добавили эти все доработки в одном месте.		
 		</p>
 		Отличия между OpenCart и ocStore:
