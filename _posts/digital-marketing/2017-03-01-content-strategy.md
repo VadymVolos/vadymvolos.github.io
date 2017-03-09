@@ -96,7 +96,7 @@ image: /images/posts/сontent-strategy-kak-raskrutit-svoy-sayt-i-youtube-kanal.p
       <li><a rel="nofollow" target="_blank" class="hvr-wobble-vertical" href="http://keywordtool.io" onclick="ga('send', 'event', 'outbound', 'click', 'http://keywordtool.io');">Keyword Tool</a></li>
       <li><a rel="nofollow" target="_blank" class="hvr-wobble-vertical" href="https://trends.google.com" onclick="ga('send', 'event', 'outbound', 'click', 'https://trends.google.com');">Google Тренды</a></li>
       <li><a rel="nofollow" target="_blank" class="hvr-wobble-vertical" href="https://ru.megaindex.com/?from=50353" onclick="ga('send', 'event', 'outbound', 'click', 'https://ru.megaindex.com/?from=50353');">MegaIndex</a></li>
-      <li><a rel="nofollow" target="_blank" class="hvr-wobble-vertical" href="https://serpstat.com/?ref=11598" onclick="ga('send', 'event', 'outbound', 'click', 'https://serpstat.com/?ref=11598');">Serpstat</a></li>
+      <li><a rel="nofollow" target="_blank" class="hvr-wobble-vertical" href="https://serpstat.com/?ref=11598" onclick="ga('send', 'event', 'outbound', 'click', 'https://serpstat.com/?ref=11598');">Serpstat (есть анализ конкрентов)</a></li>
       </ul>
 <p>
 С помощью этих сервисов можно просмотреть количество запросов в месяц по нужной вам теме, а также смежные запросы и похожие варианты. Просматривать вы можете по всему миру, а можете выбрать конкретную страну и город. Это очень круто, когда вы можете узнать количество запросов в месяц по конкретной фразе в конкретном городе. 
