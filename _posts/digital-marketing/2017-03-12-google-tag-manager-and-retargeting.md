@@ -13,29 +13,12 @@ image:
 Для этого нужно устанавливать на сайт коды аналитики и ретаргетинга, но вместо того чтоб постоянно добавлят код на сайте, есть замечательный сервис Google Tag Manager (GTM), нужно добавить на сайт только код от GTM, а все ваши другие коды уже добавлят ьв интерфейсе GTM, а он уже автоматом будет отображать их на вашем сайте.
 </p><p>
 Ниже видео про то как пользоваться и настраивать  Google Tag Manager и ретаргетинг.
-</p><p>
-Автор видео:  Николай Смирнов (Hiconversion)
+</p>
 <div class="yt-video-container-1">
     <iframe src="https://www.youtube.com/embed/miTLGbYCwXk?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
+<p>
+Автор видео:  Николай Смирнов (Hiconversion)
 </p><p>
 Хорошее подробное видео, решил добавить его на сайт, думаю многим будет полезно.
 </p>
-
-	
-<!--
-	<li class="accordion-li">
-		<a class="accordion-a"><h3>Dolor sit Amet</h3></a>
-		<div class="accordion-content">
-		<p></p>
-		</div>
-	</li>
-	<li class="accordion-li">
-		<a class="accordion-a"><h3>Dolor sit Amet</h3></a>
-		<div class="accordion-content">
-		<p></p>
-		</div>
-	</li>
--->
-
-</ul> <!-- / accordion -->
