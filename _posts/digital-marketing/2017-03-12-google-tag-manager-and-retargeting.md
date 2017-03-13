@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Настройка Google Tag Manager и ретаргетинга
+title: Настройка Google Tag Manager и Ретаргетинга
 description: Видео про настроку Google Tag Manager и ретаргетинга.
 categories: [Уроки Интернет Маркетинг]
 tags: [Google Tag Manager, Ретаргетинг, Маркетинг]
