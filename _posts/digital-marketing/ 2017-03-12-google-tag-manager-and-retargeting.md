@@ -1,0 +1,41 @@
+---
+layout: post
+title: Настройка Google Tag Manager и ретаргетинга
+description: Видео про настроку Google Tag Manager и ретаргетинга.
+categories: [Уроки Интернет Маркетинг]
+tags: [Google Tag Manager, Ретаргетинг, Маркетинг]
+image:
+---
+
+<p>
+Для любого сайта нужно собирать статистику посетителей и а также иметь возможность показывать рекламу этим посетителям (ретаргетинг)
+</p><p>
+Для этого нужно устанавливать на сайт коды аналитики и ретаргетинга, но вместо того чтоб постоянно добавлят код на сайте, есть замечательный сервис Google Tag Manager (GTM), нужно добавить на сайт только код от GTM, а все ваши другие коды уже добавлят ьв интерфейсе GTM, а он уже автоматом будет отображать их на вашем сайте.
+</p><p>
+Ниже видео про то как пользоваться и настраивать  Google Tag Manager и ретаргетинг.
+</p><p>
+Автор видео:  Николай Смирнов (Hiconversion)
+<div class="yt-video-container-1">
+    <iframe src="https://www.youtube.com/embed/miTLGbYCwXk?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</p><p>
+Это не реклама, просто хорошее подробное видео, поэтому решил добавить его к себе на сайт, думаю многим будет полезно.
+</p>
+
+	
+<!--
+	<li class="accordion-li">
+		<a class="accordion-a"><h3>Dolor sit Amet</h3></a>
+		<div class="accordion-content">
+		<p></p>
+		</div>
+	</li>
+	<li class="accordion-li">
+		<a class="accordion-a"><h3>Dolor sit Amet</h3></a>
+		<div class="accordion-content">
+		<p></p>
+		</div>
+	</li>
+-->
+
+</ul> <!-- / accordion -->
