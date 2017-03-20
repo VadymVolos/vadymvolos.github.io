@@ -28,7 +28,7 @@ image:
 
 
 <div style="margin-bottom: 30px;"></div>
-Еще видео "Хроническая усталость и эмоциональное выгорание"
+Еще одно видео "Хроническая усталость и эмоциональное выгорание"
 <div class="yt-video-container-1">
     <iframe src="https://www.youtube.com/embed/bzbWc8e2fLs?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
