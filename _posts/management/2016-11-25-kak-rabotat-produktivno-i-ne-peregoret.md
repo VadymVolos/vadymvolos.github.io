@@ -23,7 +23,7 @@ image:
 Очень классное видео:
 "Эмоциональное выгорание, психологическое выгорание. Как с ним бороться?" (Психолог Наталья Кучеренко)
 <div class="yt-video-container-1">
-    <iframe src="https://www.youtube.com/embed/bzbWc8e2fLs?rel=0" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/nFw3AORhy-g?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
