@@ -21,14 +21,14 @@ image:
 
 <div style="margin-bottom: 30px;"></div>
 Очень классное видео:<br>
-"Эмоциональное выгорание, психологическое выгорание. Как с ним бороться?" (Психолог Наталья Кучеренко)
+<h3>Эмоциональное выгорание, психологическое выгорание. Как с ним бороться? (Психолог Наталья Кучеренко)</h3>
 <div class="yt-video-container-1">
     <iframe src="https://www.youtube.com/embed/nFw3AORhy-g?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
 <div style="margin-bottom: 30px;"></div>
-Еще одно видео "Хроническая усталость и эмоциональное выгорание"
+<h3>Еще одно видео "Хроническая усталость и эмоциональное выгорание"</h3>
 <div class="yt-video-container-1">
     <iframe src="https://www.youtube.com/embed/bzbWc8e2fLs?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
