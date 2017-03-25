@@ -10,7 +10,7 @@ permalink: /r/
     display: none; /* Если с помощью css отключить этот див то прямая ссылка всеравно поисковыми ботами будет индексирвоаться, и слив веса будет туда на сайт. Также гугл может подумать что это скрытая ссылка для накрутки того сайта и этот сайт возможно накажет. */
 }
 .cryptonatorwidget div:nth-last-child(2) {
-    background: #eee;
+    /*background: #eee;*/
     padding-top: 12px !important;
     padding-bottom: 14px;
 }
