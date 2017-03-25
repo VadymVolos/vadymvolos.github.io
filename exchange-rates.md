@@ -17,8 +17,8 @@ permalink: /r/
 .cryptonatorwidget {
     border-radius: 0px; /* crypt_multi_border_corners = "square"; */
     max-width: 760px;
-    /*float: left;
-    margin-left: 10px;*/
+    background: #eaeaea !important;
+    /*float: left; margin-left: 10px;*/
 }
 </style>
 
@@ -26,7 +26,7 @@ permalink: /r/
 
 <script type="text/javascript">    
 crypt_multi_border_width = 1;
-crypt_multi_border_color = "#ececec";
+crypt_multi_border_color = "#f5f5f5";
 crypt_multi_border_corners = "square";
 crypt_multi_font_family = "Verdana";
 crypt_multi_font_size = "small";
