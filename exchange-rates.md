@@ -99,7 +99,6 @@ crypt_target_cur_20 = "US Dollar (USD)";
 </script>
 <script type="text/javascript" src="https://www.cryptonator.com/ui/js/widget/multi_widget.js"></script>
 <div style="clear:both"></div>
-<br>
 Чтоб увидеть актуальный курс обновите страницу (на клавиатуре F5).
 <br>
 <h3>Спонсоры данной страницы кошельки:</h3>
