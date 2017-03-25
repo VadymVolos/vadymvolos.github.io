@@ -3,7 +3,7 @@ layout: page
 title: Актуальные курсы криптовалют
 permalink: /r/
 ---
-
+<meta name="robots" content="nofollow" />
 <style>   
 .cryptonatorwidget div:last-child {
     background: #64f949; 
