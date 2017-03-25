@@ -103,7 +103,7 @@ crypt_target_cur_20 = "US Dollar (USD)";
 <br>
 <h3>Спонсоры данной страницы кошельки:</h3>
 <ul>
-    <li><a rel="nofollow" target="_blank" class="hvr-wobble-vertical" href="https://ru.cryptonator.com/auth/signup/101248575" onclick="ga('send', 'event', 'outbound', 'click', 'https://ru.cryptonator.com/auth/signup/101248575');">cryptonator.com</a>   (мультвалютный кошелек с маленькой комиссией, Bitcoin BTC, Blackcoin BLK, Dash DASH, Dogecoin DOGE, Emercoin EMC, Ethereum ETH (скоро), Ethereum Classic ETC (скоро), Litecoin LTC, Monero XMR, Peercoin PPC, Primecoin XPM, Reddcoin RDD, Zcash ZEC, Рубль RUR, Доллар USD, Евро EUR, Гривна UAH)</li>
+    <li><a rel="nofollow" target="_blank" class="hvr-wobble-vertical" href="https://ru.cryptonator.com/auth/signup/101248575" onclick="ga('send', 'event', 'outbound', 'click', 'https://ru.cryptonator.com/auth/signup/101248575');">cryptonator.com</a>   (Мультвалютный кошелек с маленькой комиссией. Валюты: Bitcoin BTC, Blackcoin BLK, Dash DASH, Dogecoin DOGE, Emercoin EMC, Ethereum ETH (скоро), Ethereum Classic ETC (скоро), Litecoin LTC, Monero XMR, Peercoin PPC, Primecoin XPM, Reddcoin RDD, Zcash ZEC, Рубль RUR, Доллар USD, Евро EUR, Гривна UAH).</li>
     <li>2</li>
 </ul>
 
