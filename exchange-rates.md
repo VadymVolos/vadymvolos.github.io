@@ -15,6 +15,7 @@ permalink: /r/
     padding-bottom: 14px;
 }
 .cryptonatorwidget {
+    margin-top: 31px;
     border-radius: 0px; /* crypt_multi_border_corners = "square"; */
     max-width: 760px;
     /*background: #efefef !important;*/
