@@ -16,16 +16,13 @@ permalink: /r/
 }
 .cryptonatorwidget {
     border-radius: 0px; /* crypt_multi_border_corners = "square"; */
-    max-width: 500px;
+    max-width: 760px;
     /*float: left;
     margin-left: 10px;*/
 }
 </style>
 
-
 <br>
-
-
 
 <script type="text/javascript">    
 crypt_multi_border_width = 1;
