@@ -22,8 +22,6 @@ permalink: /r/
 }
 </style>
 
-<br>
-
 <script type="text/javascript">    
 crypt_multi_border_width = 1;
 crypt_multi_border_color = "#e0dede";
