@@ -10,8 +10,8 @@ image: /images/posts/сontent-strategy-kak-raskrutit-svoy-sayt-i-youtube-kanal.p
 <img src="{{ site.baseurl }}/images/posts/сontent-strategy-kak-raskrutit-svoy-sayt-i-youtube-kanal.png"
 alt="Где найти хорошего копирайтера" title="Пост про суть копирайтинга.">
 <blockquote>
-Копирайтеры, не дорого!
-Продаем копирайтров, 100 уе за штучку, 300 уе пучек из 4 штук.
+Копирайтеры, недорого!
+Продаем копирайтров, $300 один, $1200 за четверых.
 </blockquote>
 
 Поступил такой вопрос: «Нужен хороший копирайтер, посоветуйте пожалуйста где найти хорошего копирайтера?»
