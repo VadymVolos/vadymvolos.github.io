@@ -4,10 +4,10 @@ title: Где найти хорошего копирайтера?
 description: Продаем копирайтров, 100 уе за штучку, 300 уе пучек из 4 штук.
 categories: [Уроки Интернет Маркетинг]
 tags: [Контент стратегия, Копирайтинг, Маркетинг]
-image: /images/posts/сontent-strategy-kak-raskrutit-svoy-sayt-i-youtube-kanal.png
+image: /images/posts/gde-nayti-horoshego-kopiraytera.png
 ---
 
-<img src="{{ site.baseurl }}/images/posts/сontent-strategy-kak-raskrutit-svoy-sayt-i-youtube-kanal.png"
+<img src="{{ site.baseurl }}/images/posts/gde-nayti-horoshego-kopiraytera.png"
 alt="Где найти хорошего копирайтера" title="Пост про суть копирайтинга.">
 <blockquote>
 Копирайтеры, недорого!
