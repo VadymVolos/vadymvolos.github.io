@@ -7,8 +7,9 @@ tags: [Контекстная реклама, Реклама, Google AdWords, Я
 image: /images/posts/
 ---
 
-<img src="{{ site.baseurl }}/images/posts/"
+<!-- <img src="{{ site.baseurl }}/images/posts/chto-delat-yesli-reklama-unichtozhayet-byudzhet-i-ne-prinosit-polzy.md"
 alt="Что делать, если реклама просто уничтожает бюджет и не приносит ни какой пользы?" title="Ответ на вопрос про реклму">
+-->
 <blockquote>
 Что делать, если реклама просто уничтожает бюджет и не приносит ни какой пользы (контекстная реклама)?
 </blockquote>
