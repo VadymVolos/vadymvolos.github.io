@@ -20,6 +20,7 @@ image: /images/posts/varianty-na-chem-sdelat-sayt.png
     <li>Лендинг (сайт без админки на html, css, js)</li>
     <li>Лендинг + блог на medium.com</li>
     <li>Tumblr (онлайн сервис для размещения сайта, бесплатный)</li>
+    <li>golos.io (начинающая соц сеть, за популярные посты платят деньгами)</li>
     <li>Самописные CMS (движки для сайта или магазина)</li>
     <li>Joomla CMS (движок для сайта бесплатный)</li>
     <li>Drupal CMS (движок для сайта бесплатный)</li>
