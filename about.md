@@ -4,10 +4,15 @@ title: About
 permalink: /about/
 ---
 Контакты:
-
+<ul>
+<li>
 <a href="https://goo.gl/forms/xTX2irW64HVVp4EQ2" target="_blank" rel="nofollow">Гугл форма для связи</a> <br>
+</li><li>
 <a href="https://plus.google.com/+VadymVolos" target="_blank" rel="nofollow">plus.google.com/+VadymVolos</a> <br>
+</li><li>
 <a href="https://github.com/VadymVolos/vadymvolos.github.io/issues" target="_blank" rel="nofollow">vadymvolos.github.io/issues</a>
+</li>
+</ul>
 
 ### Привет
 
