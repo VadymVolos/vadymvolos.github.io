@@ -24,6 +24,7 @@ image: /images/posts/varianty-na-chem-sdelat-sayt.png
     <li>livejournal.com (соц сеть для блогеров)</li>
     <li>sway.com (by Microsoft, онлайн презентации, выглядят как сайт)</li>
     <li>sites.google.com (онлайн сервис для размещения сайта, бесплатный)</li>
+    <li>jimdo.com/pricing/ (онлайн сервис для сайта, платный но есть бесплатный вариант)
     <li>Самописные CMS (движки для сайта или магазина)</li>
     <li>Joomla CMS (движок для сайта бесплатный)</li>
     <li>Drupal CMS (движок для сайта бесплатный)</li>
