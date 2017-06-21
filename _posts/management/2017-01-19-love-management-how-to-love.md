@@ -6,7 +6,7 @@ categories: [Уроки Менеджмент]
 tags: [Love Management, Менеджмент]
 image:
 ---
-Что такое любовь с 1m32s (автор слов и роликов Антуан Наджарян)
+Что такое любовь смотреть с 1m32s (автор слов и роликов Антуан Наджарян)
 <div class="yt-video-container-1">
     <iframe src="https://www.youtube.com/embed/QzHeev8B0kM?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
