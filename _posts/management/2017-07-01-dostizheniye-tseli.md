@@ -8,13 +8,13 @@ image:
 ---
 Рекомендую видео к просмотру, в видео есть много глубоких мыслей и ценных выводов. Если вы думаете что видео про спорт и тело, ничег оподобного они про детьтали достижение любой самой важнйо цели.
 
-Видео 1: Достижение цели (автор видео Ярослав Брин)
+Достижение цели (автор видео Ярослав Брин):
 
 <div class="yt-video-container-1">
     <iframe src="https://www.youtube.com/embed/Npqmqry752Q?rel=0" frameborder="0" allowfullscreen></iframe>    
 </div>
 
-Видео 2: Достижение цели (автор видео VLAD iss.)
+Достижение цели (автор видео VLAD iss):
 <div class="yt-video-container-1">
     <iframe src="https://www.youtube.com/embed/xdjEz0oWINo?rel=0" frameborder="0" allowfullscreen></iframe>    
 </div>
