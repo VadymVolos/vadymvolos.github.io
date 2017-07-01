@@ -8,15 +8,13 @@ image:
 ---
 Рекомендую видео к просмотру, в видео есть глубокие мысли c ценными выводами.
 
-Видео 1: Достижение цели (Ярослав Брин)
+Видео 1: Достижение цели (автор видео Ярослав Брин)
 
 <div class="yt-video-container-1">
     <iframe src="https://www.youtube.com/embed/Npqmqry752Q?rel=0" frameborder="0" allowfullscreen></iframe>    
 </div>
-Автор видео Ярослав Брин.
 
-Видео 1: Достижение цели (VLAD iss)
+Видео 2: Достижение цели (автор видео VLAD iss.)
 <div class="yt-video-container-1">
     <iframe src="https://www.youtube.com/embed/xdjEz0oWINo?rel=0" frameborder="0" allowfullscreen></iframe>    
 </div>
-Автор видео VLAD iss.
