@@ -31,7 +31,7 @@ image:
     <iframe src="https://www.youtube.com/embed/Md6LBts7TFg?rel=0" frameborder="0" allowfullscreen></iframe>    
 </div>
 
-Еще полезные видео (про тренировки, и малые и большие промежутки достижения цели, автор видео Ярослав Брин):
+Еще полезные видео (про тренировки, и малые и большие промежутки достижения цели 36:12, автор видео Ярослав Брин):
 <div class="yt-video-container-1">
     <iframe src="https://www.youtube.com/embed/xPh95kAQm3k?rel=0" frameborder="0" allowfullscreen></iframe>    
 </div>
