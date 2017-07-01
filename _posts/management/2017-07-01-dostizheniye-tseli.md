@@ -25,3 +25,13 @@ image:
 Добавил видео Влада, он и при старте и в конце видео с позитивным легким простым настроем и мыслями.
 
 Умение быть позитивно легким без заморочек, тоже важное умение которое можно потерять при достижении цели. Нужно за ним бдить, следить, и заряжать.
+
+Еще полезные видео (про питание и диету, автор видео Ярослав Брин):
+<div class="yt-video-container-1">
+    <iframe src="https://www.youtube.com/embed/Md6LBts7TFg?rel=0" frameborder="0" allowfullscreen></iframe>    
+</div>
+
+Еще полезные видео (про тренировки, и малые и большие промежутки достижения цели, автор видео Ярослав Брин):
+<div class="yt-video-container-1">
+    <iframe src="https://www.youtube.com/embed/xPh95kAQm3k?rel=0" frameborder="0" allowfullscreen></iframe>    
+</div>
