@@ -110,7 +110,7 @@ image: /images/posts/
     <li class="accordion-li">
     <a class="accordion-a">КоллХелпер (конструктор скриптов продаж)</a>    
     <div class="accordion-content">    
-    <p>Сайт: <a rel="nofollow" target="_blank" href="http://callhelp.kit-media.com/">КоллХелпер</a></p>
+    Сайт: <a rel="nofollow" target="_blank" href="http://callhelp.kit-media.com/">КоллХелпер</a>
 
     <p>Кратко о КоллХелпере:</p>
               <div class="yt-video-container-1">
@@ -128,7 +128,7 @@ image: /images/posts/
     <li class="accordion-li">
     <a class="accordion-a">HyperScript (конструктор скриптов продаж)</a>    
     <div class="accordion-content">    
-    <p>Сайт: <a rel="nofollow" target="_blank" href="http://hyper-script.ru/">HyperScript</a></p>
+    Сайт: <a rel="nofollow" target="_blank" href="http://hyper-script.ru/">HyperScript</a>
 
     <p>HyperScript – Увеличение эффективности телефонных продаж:</p>
               <div class="yt-video-container-1">
