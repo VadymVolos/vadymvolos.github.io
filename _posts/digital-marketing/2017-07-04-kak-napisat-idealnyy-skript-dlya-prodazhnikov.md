@@ -93,7 +93,7 @@ image: /images/posts/
     <a class="accordion-a">Конструктор скриптов продаж с помощью майндмап программ</a>    
     <div class="accordion-content">
 	<ul>
-	    <li><a rel="nofollow" target="_blank" href="https://www.mindmeister.com/?r=56712">MindMeisters (онлайн сервис)</a></li>
+	    <li><a rel="nofollow" target="_blank" href="https://www.mindmeister.com/?r=56712">MindMeisters (онлайн сервис майнд карт, 3 карты бесплатно)</a></li>
 	    <li><a rel="nofollow" target="_blank" href="http://www.xmind.net/">Xmind (программа для пк)</a></li>
 	    <li><a rel="nofollow" target="_blank" href="http://www.xmind.net/">Google Drawings (Гугл Рисунки)</a></li>
 	    <li><a rel="nofollow" target="_blank" href="https://www.draw.io/">draw.io (беспл инстр моделирования бизнес процессов, диаграмм, блок-схемм)</a></li>
