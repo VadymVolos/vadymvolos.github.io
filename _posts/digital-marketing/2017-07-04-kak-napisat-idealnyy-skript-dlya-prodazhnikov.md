@@ -74,7 +74,7 @@ image: /images/posts/
 <a rel="nofollow" target="_blank" href="https://secretmag.ru/business/methods/scripty-prodaj.htm" style="color: #aba5a5;">Источник статьи</a>
 </blockquote>
 
-Веб сервисы, электронные помощники, для создания и работы со скриптами:  
+<h2>Веб сервисы, электронные помощники, для создания и работы со скриптами:</h2>
 <ul>
 <li><a rel="nofollow" target="_blank" href="http://callhelp.kit-media.com/">КоллХелпер</a> (конструктор скриптов продаж)</li>
 <li><a rel="nofollow" target="_blank" href="http://hyper-script.ru/">HyperScript</a></li>
