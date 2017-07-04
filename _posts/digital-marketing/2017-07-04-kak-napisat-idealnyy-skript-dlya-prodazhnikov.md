@@ -80,7 +80,7 @@ image: /images/posts/
 <blockquote>
 Автор стати: Ольга Жукова<br>
 (Коммерческий директор «Агентства решений КИТ МЕДИА»)<br>
-Источник: https://secretmag.ru/business/methods/scripty-prodaj.htm
+Источник: <a rel="nofollow" href="https://secretmag.ru/business/methods/scripty-prodaj.htm" target="_blank">https://secretmag.ru/business/methods/scripty-prodaj.htm</a>
 </blockquote>
 <!--
 <a rel="nofollow" href="" target="_blank"></a>
