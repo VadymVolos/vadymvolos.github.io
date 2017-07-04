@@ -91,7 +91,7 @@ image: /images/posts/
     <li class="accordion-li">
     <a class="accordion-a">КоллХелпер (конструктор скриптов продаж)</a>    
     <div class="accordion-content">    
-    <a rel="nofollow" target="_blank" href="http://callhelp.kit-media.com/">КоллХелпер</a> (конструктор скриптов продаж).
+    <p>Сайт: <a rel="nofollow" target="_blank" href="http://callhelp.kit-media.com/">КоллХелпер</a></p>
 
     <p>Кратко о КоллХелпере:</p>
               <div class="yt-video-container-1">
