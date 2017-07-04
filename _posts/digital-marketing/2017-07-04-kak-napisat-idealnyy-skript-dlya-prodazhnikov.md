@@ -62,15 +62,16 @@ image: /images/posts/
 
 Ищите решение с возможностью интеграции скрипта с CRM: так работа ускоряется и упрощается — данные клиента (контакты, имя, комментарии к компании, любое поле из CRM) появляются прямо в тексте скрипта и там же редактируются. Кроме того, удобное ПО для визуализации сценариев — инструмент обучения новичков, которых вы сможете быстрее бросить на продажи, а также способ скорее запустить акции и спецпредложения.
 
-<a rel="nofollow" href="http://callhelp.kit-media.com/" target="_blank">КоллХелпер конструктор скриптов продаж</a>,  
-<a rel="nofollow" href="http://hyper-script.ru/" target="_blank">HyperScript</a>,  
-<a rel="nofollow" href="https://salescript.gift/ru/" target="_blank">SaleScript.Gift пожиз беспл</a>,  
-<a rel="nofollow" href="https://scriptdesigner.ru/rates" target="_blank">scriptdesigner ru</a>
-<a rel="nofollow" href="https://sales-elevator.ru/" target="_blank">Sales Elevator ru</a>
+<ul>
+<li><a rel="nofollow" href="http://callhelp.kit-media.com/" target="_blank">КоллХелпер конструктор скриптов продаж</a></li>
+<li><a rel="nofollow" href="http://hyper-script.ru/" target="_blank">HyperScript</a></li>
+<li><a rel="nofollow" href="https://salescript.gift/ru/" target="_blank">SaleScript.Gift пожиз беспл</a></li>
+<li><a rel="nofollow" href="https://scriptdesigner.ru/rates" target="_blank">scriptdesigner ru</a></li>
+<li><a rel="nofollow" href="https://sales-elevator.ru/" target="_blank">Sales Elevator ru</a></li>
 
-<s><a rel="nofollow" href="http://scrypto.ru/" target="_blank">Scrypto ru</a></s>, 
-<s><a rel="nofollow" href="http://www.easyscript.ru/" target="_blank">EasyScript</a></s>, 
-
+<li><s><a rel="nofollow" href="http://scrypto.ru/" target="_blank">Scrypto ru</a></s></li>
+<li><s><a rel="nofollow" href="http://www.easyscript.ru/" target="_blank">EasyScript</a></s></li>
+</ul>
 
 <h2>Не откладывайте работу над скриптом</h2>
 
