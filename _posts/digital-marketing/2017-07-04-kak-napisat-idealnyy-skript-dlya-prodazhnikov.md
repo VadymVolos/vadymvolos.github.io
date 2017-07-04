@@ -90,15 +90,15 @@ image: /images/posts/
 <ul class="accordion">
 
     <li class="accordion-li">
-    <a class="accordion-a">SaleScript.Gift (конструктор скриптов продаж)</a>    
+    <a class="accordion-a">SaleScript.Gift (беспл конструктор скриптов продаж)</a>    
     <div class="accordion-content">    
     Сайт: <a rel="nofollow" target="_blank" href="https://salescript.gift/ru/">SaleScript.Gift</a>
-    <p>Сайт давно не обновлялся, развития не видно на сацте, но онлайн конуструктор вроде работает. Авторы в видео заявляют что он будет пожизненно бесплатным.</p>
+    <p>Сайт с 2016 не обновлялся, на сайте развития не видно, но онлайн конуструктор вроде работает. Авторы в видео заявляют что он будет пожизненно бесплатным.</p>
     <p>Бесплатный конструктор скриптов продаж SaleScript.Gift:</p>
               <div class="yt-video-container-1">
                     <iframe src="https://www.youtube.com/embed/dRt4vuqIw1g?rel=0" frameborder="0" allowfullscreen></iframe>
 	      </div>    
-    <p>Бесплатный редактор скриптов продаж SaleScript.Gift:</p>
+    <p>Более подробный обзор конструктора скриптов продаж SaleScript.Gift:</p>
               <div class="yt-video-container-1">
                     <iframe src="https://www.youtube.com/embed/ZOBky6aZT74?rel=0" frameborder="0" allowfullscreen></iframe>
 	      </div>
