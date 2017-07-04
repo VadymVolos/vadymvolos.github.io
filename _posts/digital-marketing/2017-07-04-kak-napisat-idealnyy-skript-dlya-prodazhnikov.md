@@ -7,9 +7,9 @@ tags: [Скрипты продаж, Телемаркеитинг, Продажа
 image: /images/posts/
 ---
 <blockquote>
-Автор стати:  
+Автор стати:<br>
 Ольга Жукова (Коммерческий директор «Агентства решений КИТ МЕДИА»)
-Источник:  
+Источник:<br>
 https://secretmag.ru/business/methods/scripty-prodaj.htm
 </blockquote>
 
