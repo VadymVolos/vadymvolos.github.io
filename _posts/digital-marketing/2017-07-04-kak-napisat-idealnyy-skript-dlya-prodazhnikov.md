@@ -71,11 +71,8 @@ image: /images/posts/
 <blockquote>
 Автор стати: Ольга Жукова<br>
 Коммерческий директор «Агентства решений КИТ МЕДИА»<br>
-<a rel="nofollow" target="_blank" href="https://secretmag.ru/business/methods/scripty-prodaj.htm" color="#aba5a5">Источник статьи</a>
+<a rel="nofollow" target="_blank" href="https://secretmag.ru/business/methods/scripty-prodaj.htm" style="color: #aba5a5;">Источник статьи</a>
 </blockquote>
-<!--
-<a rel="nofollow" target="_blank" href=""></a>
--->
 
 Веб сервисы, электронные помощники, для создания и работы со скриптами:  
 <ul>
@@ -89,3 +86,6 @@ image: /images/posts/
 <li><s><a rel="nofollow" target="_blank" href="http://script-zvonka.ru/">SaleScripts ru</a> (недоступен)</s></li>
 <li><s><a rel="nofollow" target="_blank" href="http://www.easyscript.ru/">EasyScript</a> (недоступен)</s></li>
 </ul>
+<!--
+<a rel="nofollow" target="_blank" href=""></a>
+-->
