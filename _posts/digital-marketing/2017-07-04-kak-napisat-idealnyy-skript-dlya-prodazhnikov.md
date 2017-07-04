@@ -86,6 +86,36 @@ image: /images/posts/
 <li><s><a rel="nofollow" target="_blank" href="http://script-zvonka.ru/">SaleScripts ru</a> (недоступен)</s></li>
 <li><s><a rel="nofollow" target="_blank" href="http://www.easyscript.ru/">EasyScript</a> (недоступен)</s></li>
 </ul>
+
+<ul class="accordion">
+    <li class="accordion-li">
+	  <a class="accordion-a">КоллХелпер (конструктор скриптов продаж)</a>
+    <div class="accordion-content">    
+    <a rel="nofollow" target="_blank" href="http://callhelp.kit-media.com/">КоллХелпер</a> (конструктор скриптов продаж).
+    
+    <p>Вебинар: Как написать скрипт продаж самостоятельно:</p>
+              <div class="yt-video-container-1">
+                    <iframe src="https://www.youtube.com/embed/N7PwZVRhylw?rel=0" frameborder="0" allowfullscreen></iframe>
+	            </div>
+    </div>
+    </li>
+ 
+
+    <li class="accordion-li">
+	  <a class="accordion-a">КоллХелпер (конструктор скриптов продаж)</a>
+    <div class="accordion-content">    
+    <a rel="nofollow" target="_blank" href="http://callhelp.kit-media.com/">КоллХелпер</a> (конструктор скриптов продаж).
+    
+    <p>Вебинар: Как написать скрипт продаж самостоятельно:</p>
+              <div class="yt-video-container-1">
+                    <iframe src="https://www.youtube.com/embed/N7PwZVRhylw?rel=0" frameborder="0" allowfullscreen></iframe>
+	            </div>
+    </div>
+    </li>
+    
+</ul>
+
+
 <!--
 <a rel="nofollow" target="_blank" href=""></a>
 -->
