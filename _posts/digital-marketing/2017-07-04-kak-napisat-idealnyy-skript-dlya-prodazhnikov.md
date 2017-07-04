@@ -85,7 +85,7 @@ image: /images/posts/
 <li><a rel="nofollow" target="_blank" href="https://scriptdesigner.ru/rates">scriptdesigner ru</a></li>
 <li><a rel="nofollow" target="_blank" href="https://sales-elevator.ru/">Sales Elevator ru</a></li>
 
-<li><s><a rel="nofollow" target="_blank" href="http://scrypto.ru/">Scrypto ru</a></s></li>
-<li><s><a rel="nofollow" target="_blank" href="http://script-zvonka.ru/">SaleScripts ru</a></s></li>
-<li><s><a rel="nofollow" target="_blank" href="http://www.easyscript.ru/">EasyScript</a></s></li>
+<li><s><a rel="nofollow" target="_blank" href="http://scrypto.ru/">Scrypto ru</a> (недоступен)</s></li>
+<li><s><a rel="nofollow" target="_blank" href="http://script-zvonka.ru/">SaleScripts ru</a> (недоступен)</s></li>
+<li><s><a rel="nofollow" target="_blank" href="http://www.easyscript.ru/">EasyScript</a> (недоступен)</s></li>
 </ul>
