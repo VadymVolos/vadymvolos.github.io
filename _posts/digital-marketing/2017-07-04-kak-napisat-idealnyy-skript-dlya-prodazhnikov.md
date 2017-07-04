@@ -92,16 +92,14 @@ image: /images/posts/
     <li class="accordion-li">
     <a class="accordion-a">Конструктор скриптов продаж с помощью майндмап программ</a>    
     <div class="accordion-content">
-    <ul>
+    <ol>
     <li><a rel="nofollow" target="_blank" href="https://www.mindmeister.com/?r=56712">MindMeisters (онлайн сервис)</a><li>
     <li><a rel="nofollow" target="_blank" href="http://www.xmind.net/">Xmind (программа для пк)</a><li>
     <li><a rel="nofollow" target="_blank" href="http://www.xmind.net/">Google Drawings (Гугл Рисунки)</a><li>
     <li><a rel="nofollow" target="_blank" href="https://www.draw.io/">draw.io (беспл инстр моделирования бизнес процессов, диаграмм, блок-схемм)</a><li>
     <li><a rel="nofollow" target="_blank" href="http://www.ariscommunity.com/aris-express">ARIS Express (беспл инстр моделирования процессов любых)</a><li>
     <li><a rel="nofollow" target="_blank" href="http://www.ariscommunity.com/aris-express">yEd Graph Editor</a> (беспл инстр моделирования бизнес процессов, диаграмм, блок-схемм) <a rel="nofollow" target="_blank" href="https://www.yworks.com/yed-live/">онлайн версия</a><li>
-
-
-    </ul>
+    </ol>
     
     Необязательно пользоватсья платными сервисами-конструкторами скриптов продаж, скрипты продаж можно сделать с помощью майндмеп программ, там тоже есть стрелочки и можно создать любые связи и структру. Или также можно сделать с помощью программ для рисования бизнес процессов, схемм, графиков.
 
