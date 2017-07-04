@@ -58,20 +58,9 @@ image: /images/posts/
 
 <h2>Используйте электронных помощников</h2>
 
-В отличие от театральной пьесы сценарий продаж изменяется, появляются новые предложения, и, чтобы ваш продажник не запутался, ему постоянно нужны шпаргалки. Работа с телефонными сценариями на подручных носителях неудобна — за 10 лет работы мы опробовали стикеры, бумажки с текстом и табличками, Wiki-страницы и HTML-конструктор. В результате для своего отдела продаж мы разработали (КоллХелпер конструктор скриптов продаж) специальный модуль для нашей CRM-системы, который впоследствии сделали доступным для всех, и на данный момент готовим интеграции с другими популярными CRM. На рынке есть и другие решения для работы со скриптами продаж — например, в ПО для call-центров от Naumen несколько самостоятельных веб-приложений (HyperScript, <s>Scrypto</s>, SaleScripts, <s>EasyScript</s>).
+В отличие от театральной пьесы сценарий продаж изменяется, появляются новые предложения, и, чтобы ваш продажник не запутался, ему постоянно нужны шпаргалки. Работа с телефонными сценариями на подручных носителях неудобна — за 10 лет работы мы опробовали стикеры, бумажки с текстом и табличками, Wiki-страницы и HTML-конструктор. В результате для своего отдела продаж мы разработали (КоллХелпер конструктор скриптов продаж) специальный модуль для нашей CRM-системы, который впоследствии сделали доступным для всех, и на данный момент готовим интеграции с другими популярными CRM. На рынке есть и другие решения для работы со скриптами продаж — например, в ПО для call-центров от Naumen несколько самостоятельных веб-приложений (HyperScript, <s>Scrypto</s>, <s>SaleScripts</s>, <s>EasyScript</s>).
 
 Ищите решение с возможностью интеграции скрипта с CRM: так работа ускоряется и упрощается — данные клиента (контакты, имя, комментарии к компании, любое поле из CRM) появляются прямо в тексте скрипта и там же редактируются. Кроме того, удобное ПО для визуализации сценариев — инструмент обучения новичков, которых вы сможете быстрее бросить на продажи, а также способ скорее запустить акции и спецпредложения.
-
-<ul>
-<li><a rel="nofollow" href="http://callhelp.kit-media.com/" target="_blank">КоллХелпер конструктор скриптов продаж</a></li>
-<li><a rel="nofollow" href="http://hyper-script.ru/" target="_blank">HyperScript</a></li>
-<li><a rel="nofollow" href="https://salescript.gift/ru/" target="_blank">SaleScript.Gift пожиз беспл</a></li>
-<li><a rel="nofollow" href="https://scriptdesigner.ru/rates" target="_blank">scriptdesigner ru</a></li>
-<li><a rel="nofollow" href="https://sales-elevator.ru/" target="_blank">Sales Elevator ru</a></li>
-
-<li><s><a rel="nofollow" href="http://scrypto.ru/" target="_blank">Scrypto ru</a></s></li>
-<li><s><a rel="nofollow" href="http://www.easyscript.ru/" target="_blank">EasyScript</a></s></li>
-</ul>
 
 <h2>Не откладывайте работу над скриптом</h2>
 
@@ -82,8 +71,21 @@ image: /images/posts/
 <blockquote>
 Автор стати: Ольга Жукова<br>
 (Коммерческий директор «Агентства решений КИТ МЕДИА»)<br>
-Источник: <a rel="nofollow" href="https://secretmag.ru/business/methods/scripty-prodaj.htm" target="_blank">https://secretmag.ru/business/methods/scripty-prodaj.htm</a>
+Источник: <a rel="nofollow" target="_blank" href="https://secretmag.ru/business/methods/scripty-prodaj.htm">https://secretmag.ru/business/methods/scripty-prodaj.htm</a>
 </blockquote>
 <!--
-<a rel="nofollow" href="" target="_blank"></a>
+<a rel="nofollow" target="_blank" href=""></a>
 -->
+
+Веб сервисы, электронные помощники, для создания и работы со скриптами:  
+<ul>
+<li><a rel="nofollow" target="_blank" href="http://callhelp.kit-media.com/">КоллХелпер конструктор скриптов продаж</a></li>
+<li><a rel="nofollow" target="_blank" href="http://hyper-script.ru/">HyperScript</a></li>
+<li><a rel="nofollow" target="_blank" href="https://salescript.gift/ru/">SaleScript.Gift пожиз беспл</a></li>
+<li><a rel="nofollow" target="_blank" href="https://scriptdesigner.ru/rates">scriptdesigner ru</a></li>
+<li><a rel="nofollow" target="_blank" href="https://sales-elevator.ru/">Sales Elevator ru</a></li>
+
+<li><s><a rel="nofollow" target="_blank" href="http://scrypto.ru/">Scrypto ru</a></s></li>
+<li><s><a rel="nofollow" target="_blank" href="http://script-zvonka.ru/">SaleScripts ru</a></s></li>
+<li><s><a rel="nofollow" target="_blank" href="http://www.easyscript.ru/">EasyScript</a></s></li>
+</ul>
