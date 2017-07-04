@@ -81,7 +81,7 @@ image: /images/posts/
 <ul>
 <li><a rel="nofollow" target="_blank" href="http://callhelp.kit-media.com/">КоллХелпер конструктор скриптов продаж</a></li>
 <li><a rel="nofollow" target="_blank" href="http://hyper-script.ru/">HyperScript</a></li>
-<li><a rel="nofollow" target="_blank" href="https://salescript.gift/ru/">SaleScript.Gift пожиз беспл</a></li>
+<li><a rel="nofollow" target="_blank" href="https://salescript.gift/ru/">SaleScript.Gift</a> (авторы говорят пожиз бесплатный)</li>
 <li><a rel="nofollow" target="_blank" href="https://scriptdesigner.ru/rates">scriptdesigner ru</a></li>
 <li><a rel="nofollow" target="_blank" href="https://sales-elevator.ru/">Sales Elevator ru</a></li>
 
