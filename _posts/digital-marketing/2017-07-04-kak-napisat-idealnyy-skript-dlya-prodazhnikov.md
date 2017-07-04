@@ -107,14 +107,31 @@ image: /images/posts/
  
 
     <li class="accordion-li">
-	  <a class="accordion-a">КоллХелпер (конструктор скриптов продаж)</a>
+    <a class="accordion-a">HyperScript (конструктор скриптов продаж)</a>    
     <div class="accordion-content">    
-    <a rel="nofollow" target="_blank" href="http://callhelp.kit-media.com/">КоллХелпер</a> (конструктор скриптов продаж).
-    
-    <p>Вебинар: Как написать скрипт продаж самостоятельно:</p>
+    <p>Сайт: <a rel="nofollow" target="_blank" href="http://hyper-script.ru/">HyperScript</a></p>
+
+    <p>HyperScript – Увеличение эффективности телефонных продаж:</p>
               <div class="yt-video-container-1">
-                    <iframe src="https://www.youtube.com/embed/N7PwZVRhylw?rel=0" frameborder="0" allowfullscreen></iframe>
-	            </div>
+                    <iframe src="https://www.youtube.com/embed/WmzYvZsPrYg?rel=0" frameborder="0" allowfullscreen></iframe>
+	      </div>    
+    <p>Как использовать HyperScript:</p>
+              <div class="yt-video-container-1">
+                    <iframe src="https://www.youtube.com/embed/Yq4ki1pFgiU?rel=0" frameborder="0" allowfullscreen></iframe>
+	      </div>
+    <p>Лучшие скрипты продаж. Как составить эффективный скрипт продаж:</p>
+              <div class="yt-video-container-1">
+                    <iframe src="https://www.youtube.com/embed/kW05DB_C85c?rel=0" frameborder="0" allowfullscreen></iframe>
+	      </div>
+    <p>Запуск скрипта в компании. HyperScript:</p>
+              <div class="yt-video-container-1">
+                    <iframe src="https://www.youtube.com/embed/LnlucV7yQfQ?rel=0" frameborder="0" allowfullscreen></iframe>
+	      </div>
+    <p>Развитие скриптов, продаж по телефону и контроль качества:</p>
+              <div class="yt-video-container-1">
+                    <iframe src="https://www.youtube.com/embed/NArBxpNAQc8?rel=0" frameborder="0" allowfullscreen></iframe>
+	      </div>
+	       
     </div>
     </li>
     
