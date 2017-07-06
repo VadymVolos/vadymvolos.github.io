@@ -20,7 +20,7 @@ image: /images/posts/varianty-na-chem-sdelat-sayt.png
     <li>Лендинг (сайт без админки на html, css, js)</li>
     <li>Лендинг + блог на medium.com</li>
     <li>Tumblr (онлайн сервис для размещения сайта, бесплатный)</li>
-    <li>golos.io (начинающая соц сеть, за популярные посты платят деньгами)</li>
+    <li>golos.io (начинающая соц сеть, за популярные посты платят)</li>
     <li>livejournal.com (соц сеть для блогеров)</li>
     <li>sway.com (by Microsoft, онлайн презентации, выглядят как сайт)</li>
     <li>sites.google.com (онлайн сервис для размещения сайта, бесплатный)</li>
