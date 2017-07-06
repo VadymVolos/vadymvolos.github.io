@@ -45,6 +45,7 @@ image: /images/posts/varianty-na-chem-sdelat-sayt.png
     <li>Magento (движок для магазина, бесплатный)</li>
     <li>osCommerce (движок для магазина, бесплатный)</li>
     <li>CubeCart (движок для магазина. бесплатный)</li>
+    
 </ul>
 
 <h3>Варианты для форумов и порталов:</h3>
