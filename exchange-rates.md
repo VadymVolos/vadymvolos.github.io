@@ -97,7 +97,9 @@ crypt_base_cur_20 = "Steem (STEEM)";
 crypt_target_cur_20 = "US Dollar (USD)";
 </script>
 <script type="text/javascript" src="https://www.cryptonator.com/ui/js/widget/multi_widget.js"></script>
+
 <div style="clear:both"></div>
+<div>
 Чтоб увидеть актуальный курс обновите страницу (на клавиатуре F5).
 <br><br>
 <h3>Спонсоры данной страницы кошельки:</h3>
@@ -105,7 +107,7 @@ crypt_target_cur_20 = "US Dollar (USD)";
     <li><a rel="nofollow" target="_blank" class="hvr-wobble-vertical" href="https://ru.cryptonator.com/auth/signup/101248575" onclick="ga('send', 'event', 'outbound', 'click', 'https://ru.cryptonator.com/auth/signup/101248575');">ru.cryptonator.com</a>   (Мультвалютный веб кошелек с маленькой комиссией. Валюты: Bitcoin BTC, Blackcoin BLK, Dash DASH, Dogecoin DOGE, Emercoin EMC, Ethereum ETH (скоро), Ethereum Classic ETC (скоро), Litecoin LTC, Monero XMR, Peercoin PPC, Primecoin XPM, Reddcoin RDD, Zcash ZEC, Рубль RUR, Доллар USD, Евро EUR, Гривна UAH).</li>
      <li><a rel="nofollow" target="_blank" class="hvr-wobble-vertical" href="https://www.coinbase.com/join/58b05c1686868e5d8bb1aec7" onclick="ga('send', 'event', 'outbound', 'click', 'https://www.coinbase.com/join/58b05c1686868e5d8bb1aec7');">www.coinbase.com</a>   (Хороший веб кошелек для биткоина и эфира: Bitcoin BTC, Ethereum ETH. Есть безопасное хранилище, называется Vault. Интерфейс кошелька на английском и испанском).</li>
 </ul>
-
+</div>
 
 
 {% include disqus.html %}
