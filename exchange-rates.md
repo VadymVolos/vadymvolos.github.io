@@ -23,6 +23,7 @@ permalink: /r/
 }
 .after {
     background: transparent;
+    background: #f5f5f5;
  }
 </style>
 <div class="cryptonatorwidget">
