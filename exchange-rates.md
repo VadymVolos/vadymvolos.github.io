@@ -21,6 +21,9 @@ permalink: /r/
     border-radius: 0px; /* crypt_multi_border_corners = "square"; */
     /*float: left; margin-left: 10px;*/
 }
+.after {
+    background: transparent;
+ }
 </style>
 <div class="cryptonatorwidget">
 <script type="text/javascript">    
@@ -100,7 +103,7 @@ crypt_target_cur_20 = "US Dollar (USD)";
 </div>
 
 <div style="clear:both"></div>
-<div>
+<div class="after">
 Чтоб увидеть актуальный курс обновите страницу (на клавиатуре F5).
 <br><br>
 <h3>Спонсоры данной страницы кошельки:</h3>
