@@ -28,12 +28,6 @@ permalink: /r/
 </style>
 <div class="cryptonatorwidget">
 <script type="text/javascript">    
-crypt_multi_border_width = 1;
-crypt_multi_border_color = "#e0dede";
-crypt_multi_border_corners = "square";
-crypt_multi_font_family = "Verdana";
-crypt_multi_font_size = "small";
-crypt_multi_display_time = true;
     
 crypt_multi_num_cur = "21";    
 
@@ -99,6 +93,13 @@ crypt_target_cur_19 = "US Dollar (USD)";
     
 crypt_base_cur_20 = "Steem (STEEM)";
 crypt_target_cur_20 = "US Dollar (USD)";
+
+crypt_multi_border_width = 1;
+crypt_multi_border_color = "#e0dede";
+crypt_multi_border_corners = "square";
+crypt_multi_font_family = "Verdana";
+crypt_multi_font_size = "small";
+crypt_multi_display_time = true;
 </script>
 <script type="text/javascript" src="https://www.cryptonator.com/ui/js/widget/multi_widget.js"></script>
 </div>
