@@ -22,7 +22,7 @@ permalink: /r/
     /*float: left; margin-left: 10px;*/
 }
 </style>
-
+<div class="cryptonatorwidget">
 <script type="text/javascript">    
 crypt_multi_border_width = 1;
 crypt_multi_border_color = "#e0dede";
@@ -97,6 +97,7 @@ crypt_base_cur_20 = "Steem (STEEM)";
 crypt_target_cur_20 = "US Dollar (USD)";
 </script>
 <script type="text/javascript" src="https://www.cryptonator.com/ui/js/widget/multi_widget.js"></script>
+</div>
 
 <div style="clear:both"></div>
 <div>
