@@ -628,5 +628,21 @@ nav a {
 nav a:hover {color: #222; background: rgba(0, 0, 0, 0.04);}
 .bg-img-2 {border: 0; box-shadow: 1px -2px 2px 0px rgba(89, 91, 93, 0.18);}
 
-/**********************************************/
+/**********************************************
+На главной добавление к ссылкам стилей
+***********************************************/
 
+a[href$="sekrety-seo-popov-kupon-skidka/"]:after {
+  content:'☀';
+  font-size: 0.7em !important;
+  padding:3px;
+  color:#FF9800;
+  display:block1;
+  background:#ffffff00; 
+  border-radius:100px;
+  top:-3px;
+  right:-5px;
+  position:absolute;
+}
+
+/**********************************************/
