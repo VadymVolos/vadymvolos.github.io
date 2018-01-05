@@ -634,13 +634,13 @@ nav a:hover {color: #222; background: rgba(0, 0, 0, 0.04);}
 
 a[href$="sekrety-seo-popov-kupon-skidka/"]:after {
   content:'☀';
-  font-size: 0.7em !important;
+  font-size: 0.6em;
   padding:3px;
   /*color:#fdc21a;*/
   background:#ffffff00; 
   border-radius:100px;
-  top:-3px;
-  right:-5px;
+  top:-1px;
+  right:-3px;
   position:absolute;
 }
 
