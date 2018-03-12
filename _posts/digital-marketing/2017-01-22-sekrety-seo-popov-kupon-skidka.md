@@ -21,17 +21,18 @@ image: /images/posts/sekrety-seo-popov-kupon-skidka.jpg
 Автор и эксперт курса: Руслан Савченко <br>
 
 Видеокурс «Секреты практического SEO»:  <br>
-https://1popov.ru/disc170/  <br>  <br>
+<a href="https://1popov.ru/disc170/" rel="nofollow" target="_blank">https://1popov.ru/disc170/</a>  <br>  <br>
 
 Купон также действует на  другие курсы и продукты Евгения Попова,
-которые на этой странице: https://1popov.ru/education.html  <br>  <br>
+которые на этой странице: <a href="https://1popov.ru/education.html" rel="nofollow" target="_blank">https://1popov.ru/education.html</a>  <br>  <br>
 
 Также у Евгения Попова есть курсы по видеомонтажу и фотошопу, для них нужен другой купон ( вот этот купон:  VAD_FB1 )  <br>
 Скидка по купону тоже 20%.  <br>
 Ссылки на список этих курсов:  <br>
-Курсы по фотошопу: https://1popov.ru/education-photoshop.html  <br>
-Курсы для фотографов: https://1popov.ru/education-photography.html  <br>
-Курсы для видомонтажа: https://1popov.ru/education-video.html  <br>
+Курсы по фотошопу: <a href="https://1popov.ru/education-photoshop.html" rel="nofollow" target="_blank">https://1popov.ru/education-photoshop.html</a>  <br>
+Курсы для фотографов: <a href="https://1popov.ru/education-photography.html" rel="nofollow" target="_blank">https://1popov.ru/education-photography.html</a>  <br>
+Курсы для видомонтажа: <a href="https://1popov.ru/education-video.html" rel="nofollow" target="_blank">https://1popov.ru/education-video.html</a>  <br>
+
 </blockquote>
 
 <h2>Подробнее о курсе «Секреты практического SEO» </h2>
