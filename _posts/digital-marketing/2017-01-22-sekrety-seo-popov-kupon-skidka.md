@@ -22,7 +22,16 @@ image: /images/posts/sekrety-seo-popov-kupon-skidka.jpg
 
 Видеокурс «Секреты практического SEO»:  <br>
 https://1popov.ru/disc170/  <br>
-Купон также действует на все другие курсы и продукты Евгения Попова.
+Купон также действует на  другие курсы и продукты Евгения Попова,
+которые на этой странице: https://1popov.ru/education.html
+
+Также у Евгения Попова есть курсы по видеомонтажу и фотошопу, для них нужен другой купон.  <br>
+вот этот купон:  VAD_FB1  <br>
+Скидка по купону тоже 20%.  <br>
+Ссылки на список этих курсов:  <br>
+Курсы по фотошопу: https://1popov.ru/education-photoshop.html  <br>
+Курсы для фотографов: https://1popov.ru/education-photography.html  <br>
+Курсы для видомонтажа: https://1popov.ru/education-video.html  <br>
 </blockquote>
 
 <h2>Подробнее о курсе «Секреты практического SEO» </h2>
