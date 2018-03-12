@@ -21,7 +21,8 @@ image: /images/posts/sekrety-seo-popov-kupon-skidka.jpg
 Автор и эксперт курса: Руслан Савченко <br>
 
 Видеокурс «Секреты практического SEO»:  <br>
-https://1popov.ru/disc170/  <br>
+https://1popov.ru/disc170/  <br>  <br>
+
 Купон также действует на  другие курсы и продукты Евгения Попова,
 которые на этой странице: https://1popov.ru/education.html  <br>  <br>
 
