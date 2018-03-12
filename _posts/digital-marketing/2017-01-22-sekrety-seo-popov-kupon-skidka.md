@@ -23,7 +23,7 @@ image: /images/posts/sekrety-seo-popov-kupon-skidka.jpg
 Видеокурс «Секреты практического SEO»:  <br>
 <a href="https://1popov.ru/disc170/" rel="nofollow" target="_blank">https://1popov.ru/disc170/</a>  <br>  <br>
 
-Купон также действует на  другие курсы и продукты Евгения Попова,
+Купон ( VAD_14AE ) также действует на  другие курсы и продукты Евгения Попова,
 которые на этой странице: <a href="https://1popov.ru/education.html" rel="nofollow" target="_blank">https://1popov.ru/education.html</a>  <br>  <br>
 
 Также у Евгения Попова есть курсы по видеомонтажу и фотошопу, для них нужен другой купон ( вот этот купон:  VAD_FB1 )  <br>
