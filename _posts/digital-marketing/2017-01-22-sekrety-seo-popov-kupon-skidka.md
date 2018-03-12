@@ -31,7 +31,7 @@ image: /images/posts/sekrety-seo-popov-kupon-skidka.jpg
 Ссылки на список этих курсов:  <br>
 Курсы по фотошопу: <a href="https://1popov.ru/education-photoshop.html" rel="nofollow" target="_blank">https://1popov.ru/education-photoshop.html</a>  <br>
 Курсы для фотографов: <a href="https://1popov.ru/education-photography.html" rel="nofollow" target="_blank">https://1popov.ru/education-photography.html</a>  <br>
-Курсы для видомонтажа: <a href="https://1popov.ru/education-video.html" rel="nofollow" target="_blank">https://1popov.ru/education-video.html</a>  <br>
+Курсы для видеомонтажа: <a href="https://1popov.ru/education-video.html" rel="nofollow" target="_blank">https://1popov.ru/education-video.html</a>  <br>
 
 </blockquote>
 
