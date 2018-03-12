@@ -27,7 +27,7 @@ image: /images/posts/sekrety-seo-popov-kupon-skidka.jpg
 которые на этой странице: <a href="https://1popov.ru/education.html" rel="nofollow" target="_blank">https://1popov.ru/education.html</a>  <br>  <br>
 
 Также у Евгения Попова есть курсы по видеомонтажу и фотошопу, для них нужен другой купон ( вот этот купон:  VAD_FB1 )  <br>
-Скидка по купону тоже 20%.  <br>
+Скидка по купону также 20%.  <br>
 Ссылки на список этих курсов:  <br>
 Курсы по фотошопу: <a href="https://1popov.ru/education-photoshop.html" rel="nofollow" target="_blank">https://1popov.ru/education-photoshop.html</a>  <br>
 Курсы для фотографов: <a href="https://1popov.ru/education-photography.html" rel="nofollow" target="_blank">https://1popov.ru/education-photography.html</a>  <br>
